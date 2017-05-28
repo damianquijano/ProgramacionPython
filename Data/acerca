@@ -1,0 +1,9 @@
+Utilizaremos 2 bases de datos Firebird:  
+EMPLOYEE.FDB
+FILM.FDB
+
+Y cuatro archivos csv para practicar con Pandas:
+Film20SD.csv
+Film100SD.csv
+category.csv
+language.csv
