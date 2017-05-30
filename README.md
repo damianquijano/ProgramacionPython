@@ -11,7 +11,7 @@ Contenido.
   - Carpeta Data: contiene la base de datos y los archivos csv utilizados en el curso
   - Carpeta Documentos: contiene las guías y las indicaciones enumeradas.
   - 
-Indicaciones.
+Indicaciones para Tema: Base de datos.
 
   - Crear una carpeta llamada Data en el disco duro y descargue los archivos contenidos en la carpeta Data.
   - Descargue los documentos guías y de taller contenidos en la carpeta Documentos.
@@ -19,7 +19,7 @@ Indicaciones.
   - Debe aplicar o probar cada indicación de cada documento.
   - Los dos primeros documentos son la guía para descargar, instalar , configurar y probar los softwares necesarios para el curso.
 
-Resultados del curso:
+Resultados del tema Base de datos:
   - Crear una base de datos
   - Crear y llenas 3 tablas con información relacionada entre las tres, al menos 20 registros.
   - Generar un reporte simple.
