@@ -45,9 +45,13 @@ Temporary Items
 .apdisk
 
 
+# ==================
+# Incluidos por mi.
+# ==================
+# Utilizo los words para cambiar y editar, pero luego los convierto en pdf, los pdf son
+# los que se deben ver en el repositorio,no los words que modifico.
+*.docx
 
 
 
-
-Doc6.txt
 
