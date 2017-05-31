@@ -46,12 +46,12 @@ Temporary Items
 
 
 # ==================
-# Incluidos por mi.
+# Incluidos por mi para ignorar
 # ==================
 # Utilizo los words para cambiar y editar, pero luego los convierto en pdf, los pdf son
 # los que se deben ver en el repositorio,no los words que modifico.
 *.docx
-
+sobre el repo.txt
 
 
 
