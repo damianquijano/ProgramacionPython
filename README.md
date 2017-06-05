@@ -1,4 +1,4 @@
-# Curso 3 de Python. Módulo autoestudio,
+# Curso 3 de Python. Módulo autoestudio.
 
  ## Temario.
   - Base de datos.
