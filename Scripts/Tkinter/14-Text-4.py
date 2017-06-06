@@ -13,9 +13,10 @@ import pandas as pd
 from tkinter import *
 
 def leer(event, tag,i):
-    print(event.widget.get('%s.first'%tag, '%s.last'%tag))# devuelve el nombre de la palabra tageada, esto es para saber los datos que está recibiendo la función
+    # Los print de abajo es solo para saber lo que recibe la función y podemos ver el valor del print en la consola
+    print(event.widget.get('%s.first'%tag, '%s.last'%tag))# devuelve el contenido de la fila entera, donde get('%s.first'%tag, '%s.last'%tag) por ejemplo para fila 1 es igual a get('1.0', '1.end')
     print(tag+" "+str(i))#nombre del tag y el número de la línea que es el asignado al tag también
-    arreglo=dat.iloc[i:i+1,:].values # convierto a arreglo numpy para extraer el valor sin el header de columna
+    arreglo=dat.iloc[i:i+1,:].values # convierto el valor de dat que es dataframe de panda a un arreglo numpy para extraer los valores pero sin los header de columnas
     entradaId.set(i)
     entradaCountry.set(arreglo[0,0])
     entradaCurrency.set(arreglo[0,1])
