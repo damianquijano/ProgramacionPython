@@ -22,12 +22,12 @@ ventana=Tk()
 ventana.geometry("800x300+100+100")
 ventana.title("Ejemplo de control Entry")
 
-lblUsuario=Label(ventana,text="Nombre:",font=("Agency FB",14)).place(x=300,y=10)
+lblNombre=Label(ventana,text="Nombre:",font=("Agency FB",14)).place(x=300,y=10)
 
 entradaN= StringVar(ventana)
 txtNombre=Entry(ventana,textvariable=entradaN,font=("Agency FB",14),width=10).place(x=370,y=20)
 
-lblNombre=Label(ventana,text="Apellido:",font=("Agency FB",14)).place(x=300,y=50)  
+lblApellido=Label(ventana,text="Apellido:",font=("Agency FB",14)).place(x=300,y=50)  
 
 entradaA=StringVar(ventana)
 txtApellido= Entry(ventana,textvariable=entradaA,font=("Agency FB",14),width=10).place(x=370, y =60)
