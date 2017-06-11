@@ -44,3 +44,7 @@ Indicaciones para el tema Tkinter: interfaz gráfico:
   - Seleccionar un registro y mostrar sus datos en columnas separadas.
   - Aplicar operaciones de insert, update y delete y refrescar la pantalla para verificar el resultado de la acción.  
 
+## Material de refuerzo:
+  - En el sitio: ** https://www.youtube.com/playlist?list=PLBhxWMpRW1ER6ZosdjX4c9A9oEYVJHJ03 **  hay una lista de videos de reforzamiento y explicación más profunda del control Text de Tkinter. Este material ayuda a comprender mejor el   siguiente material de reforzamiento que describe el desarrollo del trabajo final mediante videos. Cada video usa una archivo python, todos los archivos de apoyo a los videos están en la carpeta: **Scripts/ControlText/**
+  - En el sitio:    hay otra lista de videos que describen por fases el desarrollo de una aplicación básica de gestión de base de datos, integrando los componentes (con sus conocimientos respectivos): base de datos Firebird, el control FBD que permite comunicar los programas Python con Firebird, el módulo Pandas que maneja datos con python, y el módulo Tkinter que permite visualizar los datos en un entorno gráfico y más fácil de manejar para un usuario final de la aplicación. Cada video usa una archivo python, todos los archivos de apoyo a los videos están en la carpeta: **Scripts/App/**
+  	
