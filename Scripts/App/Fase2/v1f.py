@@ -1,10 +1,13 @@
-# Agregar registro o fila nueva a la base de datos.
+# Agregar registro o fila nueva a la base de datos.OK
 import fdb
 import numpy as np
 import pandas as pd
 from tkinter import *
+from tkinter import messagebox
 
-def agregar(id,nom):
+
+
+def agregar(id,nom,dialogo):
     con = fdb.connect(
     dsn='localhost:C:/data/FILM.FDB',
     user='SYSDBA', password='udelas')
@@ -17,10 +20,10 @@ def agregar(id,nom):
         print(query)
         cursor.execute(query)
         con.commit() 
-       
+        messagebox.showinfo("Correcto","El registro ha sido agregado OK!",parent=dialogo)
     except:
         con.rollback()
-        print("Error")
+        messagebox.showinfo("Error","El registro no ha sido agregado. ",parent=dialogo)
         
         
     cursor.close() 
@@ -36,9 +39,6 @@ def proc_agregar(root):
     dialogo.grab_set() # esta instrucción igual que la siguiente, obligan que primero se cierre esta ventana para que se pueda cerrar la anterior.
     dialogo.transient(master=root)
     
-    lblId=Label(dialogo,text="Id:",font=("Agency FB",14)).place(x=10,y=10)
-    entradaId= StringVar(dialogo)
-    txtId=Entry(dialogo,textvariable=entradaId,font=("Agency FB",14),width=10).place(x=80,y=20)
     
     lblCatId=Label(dialogo,text="CatId:",font=("Agency FB",14)).place(x=10,y=50)  
     entradaCatId=StringVar(dialogo)
@@ -49,6 +49,6 @@ def proc_agregar(root):
     txtName= Entry(dialogo,textvariable=entradaName,font=("Agency FB",14),width=10).place(x=80, y =100)
     
   
-    btAgregar=Button(dialogo,text="Agregar nuevo Registro",relief="solid",fg="blue",height=2,width=20,font=('Helvetica', '8'),bg="yellow",command=lambda:agregar(entradaCatId.get(),entradaName.get())) 
+    btAgregar=Button(dialogo,text="Agregar nuevo Registro",relief="solid",fg="blue",height=2,width=20,font=('Helvetica', '8'),bg="yellow",command=lambda:agregar(entradaCatId.get(),entradaName.get(),dialogo)) 
     btAgregar.place (x=10, y=150)
     

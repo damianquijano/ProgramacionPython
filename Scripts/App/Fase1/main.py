@@ -3,11 +3,9 @@ import numpy as np
 import pandas as pd
 from tkinter import *
 
-def leer(event, tag,i):
-    # Los print de abajo es solo para saber lo que recibe la función y podemos ver el valor del print en la consola
-    print(event.widget.get('%s.first'%tag, '%s.last'%tag))# devuelve el contenido de la fila entera, donde get('%s.first'%tag, '%s.last'%tag) por ejemplo para fila 1 es igual a get('1.0', '1.end')
-    print(tag+" "+str(i))#nombre del tag y el número de la línea que es el asignado al tag también
-    arreglo=dat.iloc[i:i+1,:].values # convierto el valor de dat que es dataframe de panda a un arreglo numpy para extraer los valores pero sin los header de columnas
+def leer(event,i):
+    
+    arreglo=dat.iloc[i:i+1,:].values 
     entradaId.set(i)
     entradaCatId.set(arreglo[0,0])
     entradaName.set(arreglo[0,1])
@@ -16,7 +14,7 @@ def leer(event, tag,i):
     
 def llenar_tags(i):#construye los tags para cada linea y su evento al pulsar sobre la linea.
     T.tag_add("linea"+str(i-2), str(i)+'.0',str(i)+'.end')
-    T.tag_bind("linea"+str(i-2), "<Button-1>", lambda e:leer(e, "linea"+str(i-2),i-2))
+    T.tag_bind("linea"+str(i-2), "<Button-1>", lambda e:leer(e,i-2))
     
 
 con = fdb.connect(
@@ -92,6 +90,6 @@ for i in range(2,num_filas+2):#
 TPrimeros.insert(END,dat.head(3))
 TUltimos.insert(END,dat.tail(3))
 
-
+cursor.close
 con.close()
 mainloop()

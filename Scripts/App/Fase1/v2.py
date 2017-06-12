@@ -19,12 +19,8 @@ def actualizar(id,nom):
         con.rollback()
         print("Error")
 
-
-con = fdb.connect(
-    dsn='localhost:C:/data/FILM.FDB',
-    user='SYSDBA', password='udelas'
-  )
-cursor = con.cursor()
+    cursor.close()
+    con.close()
 
 
 root = Tk()
@@ -47,6 +43,5 @@ txtName= Entry(root,textvariable=entradaName,font=("Agency FB",14),width=10).pla
 btActualizar=Button(root,text="Actualizar Registro",relief="solid",fg="blue",height=2,width=20,font=('Helvetica', '8'),bg="yellow",anchor=W, justify=LEFT,command=lambda:actualizar(entradaCatId.get(),entradaName.get())) 
 btActualizar.place (x=10, y=150)
 
-cursor.close()
-con.close()
+
 mainloop()
