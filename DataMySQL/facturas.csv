@@ -1,0 +1,1201 @@
+﻿IdFactura,Ano,Mes,IdVendedor,IdCliente,Pais,EconomiaPais,TipoProducto,IdProducto,Producto,UnidadesVendidas,PrecioUnitario,Venta
+1,2010,enero,4,6,USA,2,2,8,Cortinas,10574,51.75,547204.5
+2,2010,enero,3,8,Brasil,2,1,4,Pan,105155,1.15,120928.25
+3,2010,enero,4,7,Brasil,2,2,8,Cortinas,10547,51.75,545807.25
+4,2010,enero,3,5,USA,2,1,3,Queso,105937,2.3,243655.1
+5,2010,enero,4,6,USA,2,3,10,Tratamiento de calvicie,1059,437.5,463312.5
+6,2010,enero,3,9,Francia,2,3,10,Tratamiento de calvicie,1050,437.5,459375
+7,2010,enero,2,9,Francia,2,1,3,Queso,105752,2.3,243229.6
+8,2010,enero,2,7,Brasil,2,3,9,Camara,1050,250,262500
+9,2010,enero,2,8,Brasil,2,2,7,Martillos,10598,11.5,121877
+10,2010,enero,5,4,USA,2,2,7,Martillos,10541,11.5,121221.5
+11,2010,febrero,4,3,China,2,3,9,Camara,1059,250,264750
+12,2010,febrero,4,8,Brasil,2,1,1,Maiz,105367,1.15,121172.05
+13,2010,febrero,3,4,USA,2,1,1,Maiz,105293,1.15,121086.95
+14,2010,febrero,3,5,USA,2,1,3,Queso,105316,2.3,242226.8
+15,2010,febrero,4,3,China,2,3,9,Camara,1057,250,264250
+16,2010,febrero,3,4,USA,2,3,9,Camara,1051,250,262750
+17,2010,febrero,4,5,USA,2,3,10,Tratamiento de calvicie,1058,437.5,462875
+18,2010,febrero,3,2,China,2,3,9,Camara,1055,250,263750
+19,2010,febrero,2,3,China,2,3,10,Tratamiento de calvicie,1059,437.5,463312.5
+20,2010,febrero,4,9,Francia,2,2,6,Botas,10598,17.25,182815.5
+21,2010,marzo,2,5,USA,2,3,9,Camara,1051,250,262750
+22,2010,marzo,3,2,China,2,1,2,Leche,105955,1.15,121848.25
+23,2010,marzo,2,6,USA,2,2,6,Botas,10504,17.25,181194
+24,2010,marzo,4,5,USA,2,1,2,Leche,105027,1.15,120781.05
+25,2010,marzo,3,8,Brasil,2,3,10,Tratamiento de calvicie,1059,437.5,463312.5
+26,2010,marzo,4,8,Brasil,2,2,8,Cortinas,10596,51.75,548343
+27,2010,marzo,4,5,USA,2,1,1,Maiz,105147,1.15,120919.05
+28,2010,marzo,1,7,Brasil,2,1,3,Queso,105442,2.3,242516.6
+29,2010,marzo,4,8,Brasil,2,3,10,Tratamiento de calvicie,1054,437.5,461125
+30,2010,marzo,3,3,China,2,2,7,Martillos,10586,11.5,121739
+31,2010,abril,3,9,Francia,2,2,8,Cortinas,10562,51.75,546583.5
+32,2010,abril,4,3,China,2,1,3,Queso,105774,2.3,243280.2
+33,2010,abril,1,5,USA,2,2,6,Botas,10548,17.25,181953
+34,2010,abril,1,5,USA,2,2,7,Martillos,10564,11.5,121486
+35,2010,abril,1,9,Francia,2,2,6,Botas,10573,17.25,182384.25
+36,2010,abril,5,9,Francia,2,3,9,Camara,1057,250,264250
+37,2010,abril,3,5,USA,2,2,8,Cortinas,10500,51.75,543375
+38,2010,abril,2,6,USA,2,1,2,Leche,105099,1.15,120863.85
+39,2010,abril,3,8,Brasil,2,1,4,Pan,105363,1.15,121167.45
+40,2010,abril,5,4,USA,2,2,8,Cortinas,10506,51.75,543685.5
+41,2010,mayo,4,2,China,2,1,4,Pan,105382,1.15,121189.3
+42,2010,mayo,2,8,Brasil,2,2,6,Botas,10538,17.25,181780.5
+43,2010,mayo,3,8,Brasil,2,2,7,Martillos,10592,11.5,121808
+44,2010,mayo,5,5,USA,2,1,3,Queso,105567,2.3,242804.1
+45,2010,mayo,2,7,Brasil,2,1,4,Pan,105706,1.15,121561.9
+46,2010,mayo,4,5,USA,2,1,4,Pan,105887,1.15,121770.05
+47,2010,mayo,3,2,China,2,1,1,Maiz,105442,1.15,121258.3
+48,2010,mayo,3,7,Brasil,2,2,6,Botas,10500,17.25,181125
+49,2010,mayo,3,10,India,2,1,5,Jabon,105285,2.3,242155.5
+50,2010,mayo,4,7,Brasil,2,3,10,Tratamiento de calvicie,1058,437.5,462875
+51,2010,junio,1,10,India,2,1,4,Pan,105901,1.15,121786.15
+52,2010,junio,1,4,USA,2,1,2,Leche,105351,1.15,121153.65
+53,2010,junio,4,6,USA,2,1,1,Maiz,105293,1.15,121086.95
+54,2010,junio,4,9,Francia,2,2,8,Cortinas,10592,51.75,548136
+55,2010,junio,1,7,Brasil,2,1,1,Maiz,105351,1.15,121153.65
+56,2010,junio,4,2,China,2,2,8,Cortinas,10565,51.75,546738.75
+57,2010,junio,2,9,Francia,2,1,5,Jabon,105280,2.3,242144
+58,2010,junio,5,9,Francia,2,1,4,Pan,105097,1.15,120861.55
+59,2010,junio,4,2,China,2,1,3,Queso,105501,2.3,242652.3
+60,2010,junio,3,3,China,2,2,6,Botas,10592,17.25,182712
+61,2010,julio,4,9,Francia,2,1,1,Maiz,105618,1.15,121460.7
+62,2010,julio,2,3,China,2,1,2,Leche,105208,1.15,120989.2
+63,2010,julio,1,2,China,2,1,5,Jabon,105682,2.3,243068.6
+64,2010,julio,5,7,Brasil,2,3,10,Tratamiento de calvicie,1057,437.5,462437.5
+65,2010,julio,3,9,Francia,2,1,1,Maiz,105320,1.15,121118
+66,2010,julio,3,6,USA,2,3,10,Tratamiento de calvicie,1055,437.5,461562.5
+67,2010,julio,4,5,USA,2,1,5,Jabon,105681,2.3,243066.3
+68,2010,julio,4,7,Brasil,2,3,10,Tratamiento de calvicie,1051,437.5,459812.5
+69,2010,julio,3,5,USA,2,2,7,Martillos,10596,11.5,121854
+70,2010,julio,4,5,USA,2,3,10,Tratamiento de calvicie,1054,437.5,461125
+71,2010,agosto,2,4,USA,2,2,8,Cortinas,10597,51.75,548394.75
+72,2010,agosto,3,7,Brasil,2,2,6,Botas,10518,17.25,181435.5
+73,2010,agosto,2,7,Brasil,2,1,3,Queso,105483,2.3,242610.9
+74,2010,agosto,1,6,USA,2,1,4,Pan,105165,1.15,120939.75
+75,2010,agosto,3,5,USA,2,1,2,Leche,105010,1.15,120761.5
+76,2010,agosto,4,5,USA,2,1,4,Pan,105237,1.15,121022.55
+77,2010,agosto,3,4,USA,2,1,4,Pan,105403,1.15,121213.45
+78,2010,agosto,4,6,USA,2,1,3,Queso,105431,2.3,242491.3
+79,2010,agosto,2,10,India,2,1,4,Pan,105886,1.15,121768.9
+80,2010,agosto,4,10,India,2,1,2,Leche,105635,1.15,121480.25
+81,2010,septiembre,4,2,China,2,2,7,Martillos,10543,11.5,121244.5
+82,2010,septiembre,3,9,Francia,2,2,7,Martillos,10598,11.5,121877
+83,2010,septiembre,5,10,India,2,1,2,Leche,105614,1.15,121456.1
+84,2010,septiembre,4,3,China,2,2,7,Martillos,10532,11.5,121118
+85,2010,septiembre,3,3,China,2,1,1,Maiz,105691,1.15,121544.65
+86,2010,septiembre,3,6,USA,2,2,6,Botas,10549,17.25,181970.25
+87,2010,septiembre,4,8,Brasil,2,3,9,Camara,1058,250,264500
+88,2010,septiembre,4,10,India,2,1,1,Maiz,105896,1.15,121780.4
+89,2010,septiembre,2,6,USA,2,2,7,Martillos,10536,11.5,121164
+90,2010,septiembre,2,4,USA,2,1,4,Pan,105562,1.15,121396.3
+91,2010,octubre,3,6,USA,2,2,7,Martillos,10526,11.5,121049
+92,2010,octubre,3,7,Brasil,2,1,1,Maiz,105626,1.15,121469.9
+93,2010,octubre,4,5,USA,2,1,1,Maiz,105992,1.15,121890.8
+94,2010,octubre,3,2,China,2,2,7,Martillos,10583,11.5,121704.5
+95,2010,octubre,5,5,USA,2,1,2,Leche,105366,1.15,121170.9
+96,2010,octubre,1,7,Brasil,2,3,9,Camara,1050,250,262500
+97,2010,octubre,4,6,USA,2,1,5,Jabon,105966,2.3,243721.8
+98,2010,octubre,4,1,China,2,2,7,Martillos,10538,11.5,121187
+99,2010,octubre,3,4,USA,2,1,4,Pan,105293,1.15,121086.95
+100,2010,octubre,3,5,USA,2,2,8,Cortinas,10531,51.75,544979.25
+101,2010,noviembre,2,5,USA,2,3,10,Tratamiento de calvicie,1054,437.5,461125
+102,2010,noviembre,2,3,China,2,1,5,Jabon,105956,2.3,243698.8
+103,2010,noviembre,4,8,Brasil,2,2,8,Cortinas,10598,51.75,548446.5
+104,2010,noviembre,3,9,Francia,2,2,7,Martillos,10529,11.5,121083.5
+105,2010,noviembre,4,5,USA,2,2,8,Cortinas,10535,51.75,545186.25
+106,2010,noviembre,4,2,China,2,1,4,Pan,105511,1.15,121337.65
+107,2010,noviembre,3,1,China,2,3,9,Camara,1050,250,262500
+108,2010,noviembre,1,4,USA,2,1,1,Maiz,105174,1.15,120950.1
+109,2010,noviembre,4,4,USA,2,3,10,Tratamiento de calvicie,1059,437.5,463312.5
+110,2010,noviembre,4,5,USA,2,2,8,Cortinas,10502,51.75,543478.5
+111,2010,diciembre,3,10,India,2,1,5,Jabon,105100,2.3,241730
+112,2010,diciembre,2,8,Brasil,2,3,10,Tratamiento de calvicie,1054,437.5,461125
+113,2010,diciembre,2,7,Brasil,2,1,4,Pan,105731,1.15,121590.65
+114,2010,diciembre,5,5,USA,2,3,9,Camara,1052,250,263000
+115,2010,diciembre,4,6,USA,2,2,7,Martillos,10530,11.5,121095
+116,2010,diciembre,2,10,India,2,3,10,Tratamiento de calvicie,1053,437.5,460687.5
+117,2010,diciembre,4,9,Francia,2,2,8,Cortinas,10587,51.75,547877.25
+118,2010,diciembre,4,4,USA,2,2,6,Botas,10522,17.25,181504.5
+119,2010,diciembre,4,5,USA,2,2,8,Cortinas,10556,51.75,546273
+120,2010,diciembre,5,9,Francia,2,3,9,Camara,1059,250,264750
+121,2011,enero,2,7,Brasil,3,3,9,Camara,1343,262.6,352671.8
+122,2011,enero,4,5,USA,2,1,5,Jabon,105336,2.32,244379.52
+123,2011,enero,5,10,India,2,2,8,Cortinas,10576,52.27,552807.52
+124,2011,enero,4,8,Brasil,3,1,5,Jabon,135723,2.42,328449.66
+125,2011,enero,5,1,China,2,1,4,Pan,105373,1.16,122232.68
+126,2011,enero,5,1,China,2,2,6,Botas,10570,17.42,184129.4
+127,2011,enero,2,1,China,2,1,2,Leche,105075,1.16,121887
+128,2011,enero,4,3,China,2,2,6,Botas,10589,17.42,184460.38
+129,2011,enero,1,5,USA,2,1,1,Maiz,105096,1.16,121911.36
+130,2011,enero,2,8,Brasil,3,1,2,Leche,132237,1.21,160006.77
+131,2011,febrero,4,3,China,2,1,5,Jabon,105542,2.32,244857.44
+132,2011,febrero,4,7,Brasil,3,2,7,Martillos,13158,12.62,166053.96
+133,2011,febrero,2,4,USA,2,2,6,Botas,10564,17.42,184024.88
+134,2011,febrero,3,6,USA,2,2,7,Martillos,10555,11.62,122649.1
+135,2011,febrero,3,9,Francia,2,2,7,Martillos,10571,11.62,122835.02
+136,2011,febrero,4,7,Brasil,3,3,9,Camara,1321,262.6,346894.6
+137,2011,febrero,4,8,Brasil,3,2,7,Martillos,13327,12.62,168186.74
+138,2011,febrero,4,1,China,2,3,9,Camara,1058,252.5,267145
+139,2011,febrero,3,3,China,2,1,1,Maiz,105810,1.16,122739.6
+140,2011,febrero,2,5,USA,2,1,5,Jabon,105714,2.32,245256.48
+141,2011,marzo,3,5,USA,2,3,9,Camara,1055,252.5,266387.5
+142,2011,marzo,1,1,China,2,3,9,Camara,1056,252.5,266640
+143,2011,marzo,3,9,Francia,2,2,6,Botas,10508,17.42,183049.36
+144,2011,marzo,3,9,Francia,2,1,3,Queso,105471,2.32,244692.72
+145,2011,marzo,1,4,USA,2,3,9,Camara,1058,252.5,267145
+146,2011,marzo,5,3,China,2,2,7,Martillos,10560,11.62,122707.2
+147,2011,marzo,3,7,Brasil,3,3,10,Tratamiento de calvicie,1356,459.55,623149.8
+148,2011,marzo,4,4,USA,2,1,3,Queso,105262,2.32,244207.84
+149,2011,marzo,5,1,China,2,3,10,Tratamiento de calvicie,1050,441.88,463974
+150,2011,marzo,3,3,China,2,1,2,Leche,105626,1.16,122526.16
+151,2011,abril,3,8,Brasil,3,3,10,Tratamiento de calvicie,1305,459.55,599712.75
+152,2011,abril,4,6,USA,2,1,3,Queso,105782,2.32,245414.24
+153,2011,abril,2,10,India,2,3,9,Camara,1052,252.5,265630
+154,2011,abril,3,4,USA,2,3,10,Tratamiento de calvicie,1055,441.88,466183.4
+155,2011,abril,2,6,USA,2,2,8,Cortinas,10581,52.27,553068.87
+156,2011,abril,3,7,Brasil,3,2,8,Cortinas,13472,56.81,765344.32
+157,2011,abril,4,4,USA,2,1,3,Queso,105495,2.32,244748.4
+158,2011,abril,4,1,China,2,2,8,Cortinas,10597,52.27,553905.19
+159,2011,abril,4,3,China,2,2,6,Botas,10549,17.42,183763.58
+160,2011,abril,5,10,India,2,2,7,Martillos,10527,11.62,122323.74
+161,2011,mayo,3,10,India,2,3,9,Camara,1053,252.5,265882.5
+162,2011,mayo,3,1,China,2,3,10,Tratamiento de calvicie,1057,441.88,467067.16
+163,2011,mayo,3,2,China,2,3,10,Tratamiento de calvicie,1054,441.88,465741.52
+164,2011,mayo,3,4,USA,2,1,3,Queso,105418,2.32,244569.76
+165,2011,mayo,5,9,Francia,2,1,5,Jabon,105020,2.32,243646.4
+166,2011,mayo,5,4,USA,2,2,8,Cortinas,10530,52.27,550403.1
+167,2011,mayo,2,6,USA,2,1,3,Queso,105860,2.32,245595.2
+168,2011,mayo,1,7,Brasil,3,2,8,Cortinas,13482,56.81,765912.42
+169,2011,mayo,3,6,USA,2,1,2,Leche,105746,1.16,122665.36
+170,2011,mayo,4,7,Brasil,3,1,4,Pan,130138,1.21,157466.98
+171,2011,junio,3,10,India,2,1,4,Pan,105026,1.16,121830.16
+172,2011,junio,5,8,Brasil,3,3,10,Tratamiento de calvicie,1318,459.55,605686.9
+173,2011,junio,2,2,China,2,1,1,Maiz,105474,1.16,122349.84
+174,2011,junio,4,9,Francia,2,1,4,Pan,105909,1.16,122854.44
+175,2011,junio,4,7,Brasil,3,3,9,Camara,1323,262.6,347419.8
+176,2011,junio,1,4,USA,2,2,8,Cortinas,10528,52.27,550298.56
+177,2011,junio,5,1,China,2,1,4,Pan,105571,1.16,122462.36
+178,2011,junio,2,4,USA,2,1,2,Leche,105914,1.16,122860.24
+179,2011,junio,3,3,China,2,2,7,Martillos,10573,11.62,122858.26
+180,2011,junio,2,1,China,2,2,7,Martillos,10585,11.62,122997.7
+181,2011,julio,4,9,Francia,2,1,5,Jabon,105182,2.32,244022.24
+182,2011,julio,3,6,USA,2,3,10,Tratamiento de calvicie,1051,441.88,464415.88
+183,2011,julio,2,6,USA,2,2,7,Martillos,10554,11.62,122637.48
+184,2011,julio,4,8,Brasil,3,2,8,Cortinas,13418,56.81,762276.58
+185,2011,julio,4,9,Francia,2,2,7,Martillos,10595,11.62,123113.9
+186,2011,julio,5,6,USA,2,2,6,Botas,10537,17.42,183554.54
+187,2011,julio,1,6,USA,2,1,5,Jabon,105346,2.32,244402.72
+188,2011,julio,4,1,China,2,1,3,Queso,105515,2.32,244794.8
+189,2011,julio,2,4,USA,2,1,1,Maiz,105684,1.16,122593.44
+190,2011,julio,4,4,USA,2,1,2,Leche,105566,1.16,122456.56
+191,2011,agosto,4,1,China,2,3,10,Tratamiento de calvicie,1057,441.88,467067.16
+192,2011,agosto,2,2,China,2,2,6,Botas,10538,17.42,183571.96
+193,2011,agosto,3,5,USA,2,2,6,Botas,10586,17.42,184408.12
+194,2011,agosto,4,8,Brasil,3,1,2,Leche,131097,1.21,158627.37
+195,2011,agosto,3,5,USA,2,1,3,Queso,105315,2.32,244330.8
+196,2011,agosto,5,9,Francia,2,1,1,Maiz,105773,1.16,122696.68
+197,2011,agosto,3,1,China,2,1,4,Pan,105335,1.16,122188.6
+198,2011,agosto,3,7,Brasil,3,2,8,Cortinas,13400,56.81,761254
+199,2011,agosto,4,4,USA,2,2,7,Martillos,10528,11.62,122335.36
+200,2011,agosto,4,4,USA,2,1,4,Pan,105187,1.16,122016.92
+201,2011,septiembre,3,4,USA,2,1,1,Maiz,105300,1.16,122148
+202,2011,septiembre,2,2,China,2,1,4,Pan,105886,1.16,122827.76
+203,2011,septiembre,3,4,USA,2,1,3,Queso,105460,2.32,244667.2
+204,2011,septiembre,4,7,Brasil,3,3,10,Tratamiento de calvicie,1313,459.55,603389.15
+205,2011,septiembre,3,5,USA,2,2,8,Cortinas,10532,52.27,550507.64
+206,2011,septiembre,2,9,Francia,2,2,7,Martillos,10500,11.62,122010
+207,2011,septiembre,5,7,Brasil,3,3,10,Tratamiento de calvicie,1345,459.55,618094.75
+208,2011,septiembre,2,7,Brasil,3,3,10,Tratamiento de calvicie,1313,459.55,603389.15
+209,2011,septiembre,2,4,USA,2,1,2,Leche,105597,1.16,122492.52
+210,2011,septiembre,4,9,Francia,2,2,7,Martillos,10502,11.62,122033.24
+211,2011,octubre,3,1,China,2,1,4,Pan,105834,1.16,122767.44
+212,2011,octubre,3,6,USA,2,1,4,Pan,105187,1.16,122016.92
+213,2011,octubre,3,1,China,2,3,9,Camara,1050,252.5,265125
+214,2011,octubre,3,2,China,2,1,4,Pan,105301,1.16,122149.16
+215,2011,octubre,5,9,Francia,2,1,5,Jabon,105920,2.32,245734.4
+216,2011,octubre,2,3,China,2,2,8,Cortinas,10526,52.27,550194.02
+217,2011,octubre,4,8,Brasil,3,3,9,Camara,1330,262.6,349258
+218,2011,octubre,4,5,USA,2,2,6,Botas,10540,17.42,183606.8
+219,2011,octubre,4,5,USA,2,3,10,Tratamiento de calvicie,1052,441.88,464857.76
+220,2011,octubre,3,5,USA,2,1,4,Pan,105927,1.16,122875.32
+221,2011,noviembre,3,2,China,2,3,10,Tratamiento de calvicie,1057,441.88,467067.16
+222,2011,noviembre,5,2,China,2,1,5,Jabon,105761,2.32,245365.52
+223,2011,noviembre,1,6,USA,2,3,10,Tratamiento de calvicie,1055,441.88,466183.4
+224,2011,noviembre,3,3,China,2,2,8,Cortinas,10582,52.27,553121.14
+225,2011,noviembre,3,7,Brasil,3,1,1,Maiz,132750,1.21,160627.5
+226,2011,noviembre,1,10,India,2,3,10,Tratamiento de calvicie,1054,441.88,465741.52
+227,2011,noviembre,1,4,USA,2,2,8,Cortinas,10549,52.27,551396.23
+228,2011,noviembre,4,1,China,2,1,2,Leche,105236,1.16,122073.76
+229,2011,noviembre,3,2,China,2,1,5,Jabon,105923,2.32,245741.36
+230,2011,noviembre,4,10,India,2,2,7,Martillos,10525,11.62,122300.5
+231,2011,diciembre,3,2,China,2,1,1,Maiz,105198,1.16,122029.68
+232,2011,diciembre,3,3,China,2,1,1,Maiz,105243,1.16,122081.88
+233,2011,diciembre,3,8,Brasil,3,2,8,Cortinas,13490,56.81,766366.9
+234,2011,diciembre,4,10,India,2,1,2,Leche,105768,1.16,122690.88
+235,2011,diciembre,2,8,Brasil,3,2,6,Botas,13256,18.94,251068.64
+236,2011,diciembre,2,3,China,2,1,3,Queso,105013,2.32,243630.16
+237,2011,diciembre,4,8,Brasil,3,2,6,Botas,13585,18.94,257299.9
+238,2011,diciembre,2,10,India,2,3,10,Tratamiento de calvicie,1051,441.88,464415.88
+239,2011,diciembre,2,6,USA,2,1,2,Leche,105851,1.16,122787.16
+240,2011,diciembre,5,9,Francia,2,2,8,Cortinas,10578,52.27,552912.06
+241,2012,enero,4,6,USA,2,1,3,Queso,105938,2.44,258488.72
+242,2012,enero,3,7,Brasil,2,2,8,Cortinas,10577,54.88,580465.76
+243,2012,enero,1,1,China,2,1,3,Queso,105331,2.44,257007.64
+244,2012,enero,2,9,Francia,3,2,8,Cortinas,13139,59.65,783741.35
+245,2012,enero,3,7,Brasil,2,1,4,Pan,105377,1.22,128559.94
+246,2012,enero,3,10,India,1,1,3,Queso,79187,2.23,176587.01
+247,2012,enero,2,8,Brasil,2,2,8,Cortinas,10571,54.88,580136.48
+248,2012,enero,4,6,USA,2,1,3,Queso,105826,2.44,258215.44
+249,2012,enero,3,4,USA,2,3,10,Tratamiento de calvicie,1056,463.97,489952.32
+250,2012,enero,3,10,India,1,1,2,Leche,79255,1.11,87973.05
+251,2012,febrero,2,4,USA,2,2,6,Botas,10503,18.29,192099.87
+252,2012,febrero,2,7,Brasil,2,3,9,Camara,1055,265.12,279701.6
+253,2012,febrero,4,5,USA,2,1,4,Pan,105462,1.22,128663.64
+254,2012,febrero,3,9,Francia,3,2,7,Martillos,13119,13.26,173957.94
+255,2012,febrero,4,8,Brasil,2,2,7,Martillos,10536,12.2,128539.2
+256,2012,febrero,3,3,China,2,3,10,Tratamiento de calvicie,1055,463.97,489488.35
+257,2012,febrero,3,2,China,2,1,3,Queso,105632,2.44,257742.08
+258,2012,febrero,2,5,USA,2,1,4,Pan,105476,1.22,128680.72
+259,2012,febrero,2,6,USA,2,1,5,Jabon,105971,2.44,258569.24
+260,2012,febrero,1,6,USA,2,1,5,Jabon,105046,2.44,256312.24
+261,2012,marzo,4,2,China,2,3,10,Tratamiento de calvicie,1056,463.97,489952.32
+262,2012,marzo,3,1,China,2,2,7,Martillos,10590,12.2,129198
+263,2012,marzo,1,6,USA,2,3,10,Tratamiento de calvicie,1052,463.97,488096.44
+264,2012,marzo,1,1,China,2,1,2,Leche,105213,1.22,128359.86
+265,2012,marzo,4,6,USA,2,2,6,Botas,10576,18.29,193435.04
+266,2012,marzo,3,6,USA,2,1,5,Jabon,105486,2.44,257385.84
+267,2012,marzo,5,9,Francia,3,2,7,Martillos,13595,13.26,180269.7
+268,2012,marzo,3,10,India,1,1,5,Jabon,77643,2.23,173143.89
+269,2012,marzo,2,5,USA,2,3,10,Tratamiento de calvicie,1059,463.97,491344.23
+270,2012,marzo,2,2,China,2,1,5,Jabon,105012,2.44,256229.28
+271,2012,abril,3,4,USA,2,3,9,Camara,1051,265.12,278641.12
+272,2012,abril,4,5,USA,2,1,3,Queso,105684,2.44,257868.96
+273,2012,abril,4,10,India,1,1,1,Maiz,78334,1.11,86950.74
+274,2012,abril,3,4,USA,2,3,10,Tratamiento de calvicie,1058,463.97,490880.26
+275,2012,abril,2,2,China,2,3,9,Camara,1054,265.12,279436.48
+276,2012,abril,5,4,USA,2,2,7,Martillos,10571,12.2,128966.2
+277,2012,abril,3,2,China,2,3,10,Tratamiento de calvicie,1055,463.97,489488.35
+278,2012,abril,5,8,Brasil,2,1,2,Leche,105119,1.22,128245.18
+279,2012,abril,3,5,USA,2,3,10,Tratamiento de calvicie,1057,463.97,490416.29
+280,2012,abril,2,3,China,2,2,6,Botas,10570,18.29,193325.3
+281,2012,mayo,3,7,Brasil,2,1,1,Maiz,105115,1.22,128240.3
+282,2012,mayo,4,1,China,2,1,2,Leche,105561,1.22,128784.42
+283,2012,mayo,2,1,China,2,1,3,Queso,105335,2.44,257017.4
+284,2012,mayo,3,7,Brasil,2,3,10,Tratamiento de calvicie,1054,463.97,489024.38
+285,2012,mayo,3,3,China,2,2,6,Botas,10542,18.29,192813.18
+286,2012,mayo,3,8,Brasil,2,2,6,Botas,10510,18.29,192227.9
+287,2012,mayo,3,4,USA,2,2,7,Martillos,10515,12.2,128283
+288,2012,mayo,2,1,China,2,1,5,Jabon,105086,2.44,256409.84
+289,2012,mayo,2,1,China,2,1,4,Pan,105192,1.22,128334.24
+290,2012,mayo,3,8,Brasil,2,3,10,Tratamiento de calvicie,1058,463.97,490880.26
+291,2012,junio,4,6,USA,2,1,2,Leche,105024,1.22,128129.28
+292,2012,junio,2,9,Francia,3,2,8,Cortinas,13258,59.65,790839.7
+293,2012,junio,4,5,USA,2,1,1,Maiz,105800,1.22,129076
+294,2012,junio,1,7,Brasil,2,1,5,Jabon,105100,2.44,256444
+295,2012,junio,4,8,Brasil,2,3,9,Camara,1052,265.12,278906.24
+296,2012,junio,4,6,USA,2,3,10,Tratamiento de calvicie,1057,463.97,490416.29
+297,2012,junio,4,10,India,1,1,3,Queso,77409,2.23,172622.07
+298,2012,junio,3,7,Brasil,2,3,10,Tratamiento de calvicie,1055,463.97,489488.35
+299,2012,junio,1,5,USA,2,3,9,Camara,1051,265.12,278641.12
+300,2012,junio,3,8,Brasil,2,1,5,Jabon,105794,2.44,258137.36
+301,2012,julio,4,2,China,2,1,4,Pan,105141,1.22,128272.02
+302,2012,julio,3,5,USA,2,1,3,Queso,105134,2.44,256526.96
+303,2012,julio,5,4,USA,2,1,2,Leche,105795,1.22,129069.9
+304,2012,julio,3,8,Brasil,2,1,1,Maiz,105369,1.22,128550.18
+305,2012,julio,2,8,Brasil,2,1,4,Pan,105312,1.22,128480.64
+306,2012,julio,5,1,China,2,2,7,Martillos,10527,12.2,128429.4
+307,2012,julio,3,6,USA,2,1,1,Maiz,105324,1.22,128495.28
+308,2012,julio,3,2,China,2,3,9,Camara,1053,265.12,279171.36
+309,2012,julio,3,3,China,2,1,4,Pan,105696,1.22,128949.12
+310,2012,julio,4,5,USA,2,1,4,Pan,105240,1.22,128392.8
+311,2012,agosto,1,5,USA,2,1,5,Jabon,105325,2.44,256993
+312,2012,agosto,5,5,USA,2,2,8,Cortinas,10577,54.88,580465.76
+313,2012,agosto,4,9,Francia,3,1,2,Leche,135478,1.27,172057.06
+314,2012,agosto,4,5,USA,2,1,3,Queso,105612,2.44,257693.28
+315,2012,agosto,4,10,India,1,1,2,Leche,79579,1.11,88332.69
+316,2012,agosto,2,7,Brasil,2,3,10,Tratamiento de calvicie,1055,463.97,489488.35
+317,2012,agosto,3,5,USA,2,2,8,Cortinas,10562,54.88,579642.56
+318,2012,agosto,2,8,Brasil,2,1,5,Jabon,105314,2.44,256966.16
+319,2012,agosto,4,7,Brasil,2,1,3,Queso,105828,2.44,258220.32
+320,2012,agosto,4,6,USA,2,1,4,Pan,105782,1.22,129054.04
+321,2012,septiembre,2,4,USA,2,1,1,Maiz,105575,1.22,128801.5
+322,2012,septiembre,3,2,China,2,1,5,Jabon,105145,2.44,256553.8
+323,2012,septiembre,4,8,Brasil,2,2,6,Botas,10569,18.29,193307.01
+324,2012,septiembre,4,7,Brasil,2,2,6,Botas,10589,18.29,193672.81
+325,2012,septiembre,5,5,USA,2,2,7,Martillos,10525,12.2,128405
+326,2012,septiembre,1,6,USA,2,1,1,Maiz,105958,1.22,129268.76
+327,2012,septiembre,4,7,Brasil,2,1,2,Leche,105771,1.22,129040.62
+328,2012,septiembre,3,7,Brasil,2,1,4,Pan,105300,1.22,128466
+329,2012,septiembre,5,9,Francia,3,3,9,Camara,1337,275.73,368651.01
+330,2012,septiembre,2,6,USA,2,1,3,Queso,105307,2.44,256949.08
+331,2012,octubre,3,10,India,1,1,4,Pan,79602,1.11,88358.22
+332,2012,octubre,3,10,India,1,1,5,Jabon,76703,2.23,171047.69
+333,2012,octubre,4,9,Francia,3,3,10,Tratamiento de calvicie,1339,482.53,646107.67
+334,2012,octubre,5,8,Brasil,2,1,1,Maiz,105614,1.22,128849.08
+335,2012,octubre,4,3,China,2,1,2,Leche,105142,1.22,128273.24
+336,2012,octubre,3,10,India,1,1,2,Leche,78490,1.11,87123.9
+337,2012,octubre,4,3,China,2,1,2,Leche,105876,1.22,129168.72
+338,2012,octubre,5,9,Francia,3,2,8,Cortinas,13097,59.65,781236.05
+339,2012,octubre,1,2,China,2,1,2,Leche,105047,1.22,128157.34
+340,2012,octubre,3,4,USA,2,2,6,Botas,10519,18.29,192392.51
+341,2012,noviembre,3,10,India,1,1,3,Queso,78999,2.23,176167.77
+342,2012,noviembre,1,9,Francia,3,3,10,Tratamiento de calvicie,1347,482.53,649967.91
+343,2012,noviembre,3,7,Brasil,2,1,3,Queso,105648,2.44,257781.12
+344,2012,noviembre,3,2,China,2,2,7,Martillos,10501,12.2,128112.2
+345,2012,noviembre,2,3,China,2,1,3,Queso,105017,2.44,256241.48
+346,2012,noviembre,3,9,Francia,3,2,6,Botas,13340,19.88,265199.2
+347,2012,noviembre,5,6,USA,2,3,9,Camara,1056,265.12,279966.72
+348,2012,noviembre,4,4,USA,2,2,6,Botas,10512,18.29,192264.48
+349,2012,noviembre,2,4,USA,2,1,3,Queso,105610,2.44,257688.4
+350,2012,noviembre,3,5,USA,2,1,2,Leche,105240,1.22,128392.8
+351,2012,diciembre,3,6,USA,2,2,8,Cortinas,10533,54.88,578051.04
+352,2012,diciembre,4,1,China,2,2,8,Cortinas,10540,54.88,578435.2
+353,2012,diciembre,3,10,India,1,1,5,Jabon,79535,2.23,177363.05
+354,2012,diciembre,2,3,China,2,1,1,Maiz,105963,1.22,129274.86
+355,2012,diciembre,4,8,Brasil,2,1,1,Maiz,105973,1.22,129287.06
+356,2012,diciembre,3,8,Brasil,2,1,1,Maiz,105445,1.22,128642.9
+357,2012,diciembre,4,1,China,2,3,9,Camara,1052,265.12,278906.24
+358,2012,diciembre,3,5,USA,2,1,3,Queso,105958,2.44,258537.52
+359,2012,diciembre,3,7,Brasil,2,3,9,Camara,1058,265.12,280496.96
+360,2012,diciembre,5,3,China,2,2,7,Martillos,10572,12.2,128978.4
+361,2013,enero,3,10,India,2,2,7,Martillos,10546,13.42,141527.32
+362,2013,enero,3,10,India,2,3,10,Tratamiento de calvicie,1054,510.37,537929.98
+363,2013,enero,4,4,USA,3,2,7,Martillos,13467,14.58,196348.86
+364,2013,enero,4,6,USA,3,3,9,Camara,1331,303.3,403692.3
+365,2013,enero,4,8,Brasil,2,1,3,Queso,105660,2.68,283168.8
+366,2013,enero,4,10,India,2,3,10,Tratamiento de calvicie,1055,510.37,538440.35
+367,2013,enero,2,8,Brasil,2,2,7,Martillos,10571,13.42,141862.82
+368,2013,enero,5,9,Francia,2,2,8,Cortinas,10509,60.37,634428.33
+369,2013,enero,2,4,USA,3,2,7,Martillos,13226,14.58,192835.08
+370,2013,enero,4,8,Brasil,2,3,9,Camara,1051,291.64,306513.64
+371,2013,febrero,3,6,USA,3,3,9,Camara,1314,303.3,398536.2
+372,2013,febrero,3,5,USA,3,1,4,Pan,131204,1.4,183685.6
+373,2013,febrero,2,5,USA,3,1,1,Maiz,133019,1.4,186226.6
+374,2013,febrero,3,6,USA,3,3,10,Tratamiento de calvicie,1301,530.78,690544.78
+375,2013,febrero,3,2,China,2,3,10,Tratamiento de calvicie,1059,510.37,540481.83
+376,2013,febrero,2,8,Brasil,2,2,8,Cortinas,10551,60.37,636963.87
+377,2013,febrero,2,2,China,2,2,7,Martillos,10505,13.42,140977.1
+378,2013,febrero,4,2,China,2,3,10,Tratamiento de calvicie,1056,510.37,538950.72
+379,2013,febrero,4,2,China,2,2,8,Cortinas,10526,60.37,635454.62
+380,2013,febrero,3,9,Francia,2,3,9,Camara,1051,291.64,306513.64
+381,2013,marzo,4,9,Francia,2,2,6,Botas,10583,20.12,212929.96
+382,2013,marzo,3,4,USA,3,3,10,Tratamiento de calvicie,1311,530.78,695852.58
+383,2013,marzo,3,4,USA,3,3,9,Camara,1306,303.3,396109.8
+384,2013,marzo,3,3,China,2,3,10,Tratamiento de calvicie,1050,510.37,535888.5
+385,2013,marzo,1,2,China,2,1,4,Pan,105728,1.34,141675.52
+386,2013,marzo,3,9,Francia,2,2,6,Botas,10565,20.12,212567.8
+387,2013,marzo,2,3,China,2,1,4,Pan,105008,1.34,140710.72
+388,2013,marzo,4,3,China,2,1,3,Queso,105221,2.68,281992.28
+389,2013,marzo,3,5,USA,3,2,7,Martillos,13422,14.58,195692.76
+390,2013,marzo,3,1,China,2,1,4,Pan,105152,1.34,140903.68
+391,2013,abril,1,6,USA,3,3,10,Tratamiento de calvicie,1334,530.78,708060.52
+392,2013,abril,4,10,India,2,1,3,Queso,105213,2.68,281970.84
+393,2013,abril,4,8,Brasil,2,3,9,Camara,1054,291.64,307388.56
+394,2013,abril,3,3,China,2,1,4,Pan,105867,1.34,141861.78
+395,2013,abril,4,7,Brasil,2,1,1,Maiz,105302,1.34,141104.68
+396,2013,abril,4,8,Brasil,2,1,4,Pan,105685,1.34,141617.9
+397,2013,abril,4,3,China,2,1,5,Jabon,105438,2.68,282573.84
+398,2013,abril,4,2,China,2,1,3,Queso,105096,2.68,281657.28
+399,2013,abril,2,2,China,2,3,10,Tratamiento de calvicie,1053,510.37,537419.61
+400,2013,abril,4,6,USA,3,1,4,Pan,135047,1.4,189065.8
+401,2013,mayo,1,4,USA,3,3,10,Tratamiento de calvicie,1358,530.78,720799.24
+402,2013,mayo,3,10,India,2,3,9,Camara,1058,291.64,308555.12
+403,2013,mayo,3,4,USA,3,2,6,Botas,13097,21.87,286431.39
+404,2013,mayo,5,7,Brasil,2,1,4,Pan,105345,1.34,141162.3
+405,2013,mayo,3,7,Brasil,2,1,2,Leche,105831,1.34,141813.54
+406,2013,mayo,4,1,China,2,2,8,Cortinas,10555,60.37,637205.35
+407,2013,mayo,3,4,USA,3,1,4,Pan,134657,1.4,188519.8
+408,2013,mayo,2,2,China,2,1,3,Queso,105777,2.68,283482.36
+409,2013,mayo,4,8,Brasil,2,1,2,Leche,105071,1.34,140795.14
+410,2013,mayo,4,6,USA,3,1,1,Maiz,132054,1.4,184875.6
+411,2013,junio,3,5,USA,3,1,3,Queso,132874,2.8,372047.2
+412,2013,junio,3,5,USA,3,1,1,Maiz,135671,1.4,189939.4
+413,2013,junio,4,8,Brasil,2,1,4,Pan,105898,1.34,141903.32
+414,2013,junio,3,9,Francia,2,1,4,Pan,105423,1.34,141266.82
+415,2013,junio,4,2,China,2,1,4,Pan,105095,1.34,140827.3
+416,2013,junio,5,9,Francia,2,1,5,Jabon,105404,2.68,282482.72
+417,2013,junio,4,4,USA,3,3,9,Camara,1332,303.3,403995.6
+418,2013,junio,3,7,Brasil,2,3,10,Tratamiento de calvicie,1059,510.37,540481.83
+419,2013,junio,4,1,China,2,3,9,Camara,1052,291.64,306805.28
+420,2013,junio,5,7,Brasil,2,1,2,Leche,105308,1.34,141112.72
+421,2013,julio,3,2,China,2,1,5,Jabon,105627,2.68,283080.36
+422,2013,julio,3,3,China,2,2,7,Martillos,10550,13.42,141581
+423,2013,julio,4,8,Brasil,2,2,7,Martillos,10519,13.42,141164.98
+424,2013,julio,2,6,USA,3,3,10,Tratamiento de calvicie,1308,530.78,694260.24
+425,2013,julio,4,7,Brasil,2,1,4,Pan,105489,1.34,141355.26
+426,2013,julio,4,9,Francia,2,3,9,Camara,1057,291.64,308263.48
+427,2013,julio,3,1,China,2,1,3,Queso,105778,2.68,283485.04
+428,2013,julio,1,4,USA,3,1,3,Queso,135854,2.8,380391.2
+429,2013,julio,3,6,USA,3,3,10,Tratamiento de calvicie,1322,530.78,701691.16
+430,2013,julio,5,6,USA,3,1,3,Queso,132351,2.8,370582.8
+431,2013,agosto,3,2,China,2,2,8,Cortinas,10500,60.37,633885
+432,2013,agosto,2,1,China,2,2,7,Martillos,10582,13.42,142010.44
+433,2013,agosto,3,7,Brasil,2,1,1,Maiz,105646,1.34,141565.64
+434,2013,agosto,4,6,USA,3,2,7,Martillos,13461,14.58,196261.38
+435,2013,agosto,4,6,USA,3,1,5,Jabon,132823,2.8,371904.4
+436,2013,agosto,4,4,USA,3,3,10,Tratamiento de calvicie,1355,530.78,719206.9
+437,2013,agosto,2,7,Brasil,2,1,1,Maiz,105029,1.34,140738.86
+438,2013,agosto,2,4,USA,3,2,7,Martillos,13069,14.58,190546.02
+439,2013,agosto,3,9,Francia,2,3,10,Tratamiento de calvicie,1053,510.37,537419.61
+440,2013,agosto,3,5,USA,3,3,10,Tratamiento de calvicie,1305,530.78,692667.9
+441,2013,septiembre,4,10,India,2,1,1,Maiz,105087,1.34,140816.58
+442,2013,septiembre,5,3,China,2,1,2,Leche,105566,1.34,141458.44
+443,2013,septiembre,2,4,USA,3,2,6,Botas,13129,21.87,287131.23
+444,2013,septiembre,2,2,China,2,3,9,Camara,1056,291.64,307971.84
+445,2013,septiembre,4,2,China,2,3,9,Camara,1059,291.64,308846.76
+446,2013,septiembre,3,5,USA,3,3,10,Tratamiento de calvicie,1349,530.78,716022.22
+447,2013,septiembre,2,5,USA,3,3,9,Camara,1314,303.3,398536.2
+448,2013,septiembre,2,3,China,2,1,3,Queso,105089,2.68,281638.52
+449,2013,septiembre,3,6,USA,3,3,10,Tratamiento de calvicie,1357,530.78,720268.46
+450,2013,septiembre,4,4,USA,3,1,3,Queso,135966,2.8,380704.8
+451,2013,octubre,5,2,China,2,1,1,Maiz,105374,1.34,141201.16
+452,2013,octubre,3,5,USA,3,3,10,Tratamiento de calvicie,1327,530.78,704345.06
+453,2013,octubre,3,2,China,2,1,3,Queso,105145,2.68,281788.6
+454,2013,octubre,2,5,USA,3,3,10,Tratamiento de calvicie,1342,530.78,712306.76
+455,2013,octubre,4,10,India,2,1,3,Queso,105421,2.68,282528.28
+456,2013,octubre,4,5,USA,3,3,9,Camara,1348,303.3,408848.4
+457,2013,octubre,2,9,Francia,2,3,9,Camara,1055,291.64,307680.2
+458,2013,octubre,2,7,Brasil,2,1,1,Maiz,105042,1.34,140756.28
+459,2013,octubre,4,9,Francia,2,1,5,Jabon,105334,2.68,282295.12
+460,2013,octubre,3,7,Brasil,2,1,3,Queso,105808,2.68,283565.44
+461,2013,noviembre,4,6,USA,3,3,9,Camara,1341,303.3,406725.3
+462,2013,noviembre,4,1,China,2,1,4,Pan,105632,1.34,141546.88
+463,2013,noviembre,3,2,China,2,1,1,Maiz,105672,1.34,141600.48
+464,2013,noviembre,4,3,China,2,1,2,Leche,105605,1.34,141510.7
+465,2013,noviembre,3,1,China,2,1,4,Pan,105641,1.34,141558.94
+466,2013,noviembre,2,4,USA,3,3,9,Camara,1337,303.3,405512.1
+467,2013,noviembre,2,9,Francia,2,1,2,Leche,105533,1.34,141414.22
+468,2013,noviembre,3,1,China,2,2,6,Botas,10575,20.12,212769
+469,2013,noviembre,4,9,Francia,2,3,10,Tratamiento de calvicie,1053,510.37,537419.61
+470,2013,noviembre,5,8,Brasil,2,2,6,Botas,10547,20.12,212205.64
+471,2013,diciembre,2,9,Francia,2,3,9,Camara,1054,291.64,307388.56
+472,2013,diciembre,4,5,USA,3,3,9,Camara,1312,303.3,397929.6
+473,2013,diciembre,3,6,USA,3,3,9,Camara,1319,303.3,400052.7
+474,2013,diciembre,2,2,China,2,2,6,Botas,10505,20.12,211360.6
+475,2013,diciembre,2,10,India,2,3,9,Camara,1053,291.64,307096.92
+476,2013,diciembre,4,5,USA,3,3,10,Tratamiento de calvicie,1323,530.78,702221.94
+477,2013,diciembre,3,6,USA,3,2,8,Cortinas,13056,65.62,856734.72
+478,2013,diciembre,3,10,India,2,1,3,Queso,105220,2.68,281989.6
+479,2013,diciembre,3,8,Brasil,2,1,5,Jabon,105249,2.68,282067.32
+480,2013,diciembre,4,3,China,2,1,3,Queso,105227,2.68,282008.36
+481,2014,enero,4,8,Brasil,1,1,1,Maiz,78599,1.29,101392.71
+482,2014,enero,4,2,China,1,1,2,Leche,79420,1.29,102451.8
+483,2014,enero,3,8,Brasil,1,1,5,Jabon,77073,2.57,198077.61
+484,2014,enero,3,8,Brasil,1,1,3,Queso,78629,2.57,202076.53
+485,2014,enero,3,1,China,1,1,1,Maiz,79510,1.29,102567.9
+486,2014,enero,2,10,India,1,1,4,Pan,77625,1.29,100136.25
+487,2014,enero,3,10,India,1,1,1,Maiz,79281,1.29,102272.49
+488,2014,enero,3,9,Francia,1,1,4,Pan,79767,1.29,102899.43
+489,2014,enero,4,2,China,1,1,2,Leche,79346,1.29,102356.34
+490,2014,enero,3,5,USA,2,3,10,Tratamiento de calvicie,1054,535.88,564817.52
+491,2014,febrero,1,10,India,1,1,3,Queso,77225,2.57,198468.25
+492,2014,febrero,1,4,USA,2,2,7,Martillos,10564,14.09,148846.76
+493,2014,febrero,3,8,Brasil,1,1,2,Leche,79979,1.29,103172.91
+494,2014,febrero,2,1,China,1,1,1,Maiz,76826,1.29,99105.54
+495,2014,febrero,2,2,China,1,1,1,Maiz,78657,1.29,101467.53
+496,2014,febrero,5,2,China,1,1,3,Queso,77281,2.57,198612.17
+497,2014,febrero,2,4,USA,2,2,7,Martillos,10503,14.09,147987.27
+498,2014,febrero,4,2,China,1,1,2,Leche,78424,1.29,101166.96
+499,2014,febrero,3,6,USA,2,1,5,Jabon,105019,2.82,296153.58
+500,2014,febrero,3,2,China,1,1,3,Queso,76734,2.57,197206.38
+501,2014,marzo,4,2,China,1,1,2,Leche,79252,1.29,102235.08
+502,2014,marzo,2,3,China,1,1,5,Jabon,77301,2.57,198663.57
+503,2014,marzo,5,3,China,1,1,4,Pan,78891,1.29,101769.39
+504,2014,marzo,5,4,USA,2,3,10,Tratamiento de calvicie,1051,535.88,563209.88
+505,2014,marzo,4,5,USA,2,1,5,Jabon,105930,2.82,298722.6
+506,2014,marzo,4,7,Brasil,1,1,2,Leche,77619,1.29,100128.51
+507,2014,marzo,5,10,India,1,1,1,Maiz,76437,1.29,98603.73
+508,2014,marzo,5,3,China,1,1,3,Queso,78773,2.57,202446.61
+509,2014,marzo,5,9,Francia,1,1,4,Pan,76680,1.29,98917.2
+510,2014,marzo,3,3,China,1,1,1,Maiz,76233,1.29,98340.57
+511,2014,abril,1,8,Brasil,1,1,3,Queso,78419,2.57,201536.83
+512,2014,abril,3,1,China,1,1,4,Pan,76383,1.29,98534.07
+513,2014,abril,3,9,Francia,1,1,4,Pan,78659,1.29,101470.11
+514,2014,abril,3,9,Francia,1,1,2,Leche,78701,1.29,101524.29
+515,2014,abril,3,7,Brasil,1,1,5,Jabon,76017,2.57,195363.69
+516,2014,abril,1,10,India,1,1,1,Maiz,76190,1.29,98285.1
+517,2014,abril,2,8,Brasil,1,1,5,Jabon,79085,2.57,203248.45
+518,2014,abril,4,6,USA,2,2,7,Martillos,10583,14.09,149114.47
+519,2014,abril,3,5,USA,2,1,2,Leche,105342,1.41,148532.22
+520,2014,abril,4,6,USA,2,1,1,Maiz,105979,1.41,149430.39
+521,2014,mayo,3,2,China,1,1,4,Pan,76600,1.29,98814
+522,2014,mayo,3,9,Francia,1,1,3,Queso,76380,2.57,196296.6
+523,2014,mayo,2,10,India,1,1,4,Pan,77705,1.29,100239.45
+524,2014,mayo,4,3,China,1,1,5,Jabon,78823,2.57,202575.11
+525,2014,mayo,4,9,Francia,1,1,1,Maiz,79209,1.29,102179.61
+526,2014,mayo,3,3,China,1,1,2,Leche,77888,1.29,100475.52
+527,2014,mayo,3,2,China,1,1,4,Pan,77313,1.29,99733.77
+528,2014,mayo,4,7,Brasil,1,1,1,Maiz,77032,1.29,99371.28
+529,2014,mayo,3,2,China,1,1,3,Queso,79318,2.57,203847.26
+530,2014,mayo,3,4,USA,2,2,7,Martillos,10553,14.09,148691.77
+531,2014,junio,4,3,China,1,1,2,Leche,78255,1.29,100948.95
+532,2014,junio,3,7,Brasil,1,1,4,Pan,79167,1.29,102125.43
+533,2014,junio,2,4,USA,2,1,2,Leche,105552,1.41,148828.32
+534,2014,junio,3,2,China,1,1,5,Jabon,78896,2.57,202762.72
+535,2014,junio,2,10,India,1,1,3,Queso,77859,2.57,200097.63
+536,2014,junio,4,9,Francia,1,1,3,Queso,79199,2.57,203541.43
+537,2014,junio,4,1,China,1,1,3,Queso,76400,2.57,196348
+538,2014,junio,3,6,USA,2,1,5,Jabon,105338,2.82,297053.16
+539,2014,junio,1,10,India,1,1,4,Pan,77558,1.29,100049.82
+540,2014,junio,2,1,China,1,1,4,Pan,79512,1.29,102570.48
+541,2014,julio,2,7,Brasil,1,1,4,Pan,77479,1.29,99947.91
+542,2014,julio,4,9,Francia,1,1,4,Pan,78911,1.29,101795.19
+543,2014,julio,1,8,Brasil,1,1,4,Pan,76173,1.29,98263.17
+544,2014,julio,3,8,Brasil,1,1,1,Maiz,78423,1.29,101165.67
+545,2014,julio,1,1,China,1,1,5,Jabon,77570,2.57,199354.9
+546,2014,julio,4,3,China,1,1,3,Queso,79136,2.57,203379.52
+547,2014,julio,1,8,Brasil,1,1,4,Pan,76554,1.29,98754.66
+548,2014,julio,3,5,USA,2,3,10,Tratamiento de calvicie,1058,535.88,566961.04
+549,2014,julio,3,8,Brasil,1,1,3,Queso,79017,2.57,203073.69
+550,2014,julio,4,3,China,1,1,3,Queso,76355,2.57,196232.35
+551,2014,agosto,4,2,China,1,1,1,Maiz,79839,1.29,102992.31
+552,2014,agosto,3,6,USA,2,2,6,Botas,10575,21.13,223449.75
+553,2014,agosto,3,2,China,1,1,2,Leche,78168,1.29,100836.72
+554,2014,agosto,4,4,USA,2,1,1,Maiz,105835,1.41,149227.35
+555,2014,agosto,3,9,Francia,1,1,2,Leche,78138,1.29,100798.02
+556,2014,agosto,4,6,USA,2,2,6,Botas,10506,21.13,221991.78
+557,2014,agosto,4,8,Brasil,1,1,5,Jabon,79093,2.57,203269.01
+558,2014,agosto,2,3,China,1,1,5,Jabon,76022,2.57,195376.54
+559,2014,agosto,4,1,China,1,1,2,Leche,78663,1.29,101475.27
+560,2014,agosto,4,8,Brasil,1,1,4,Pan,79358,1.29,102371.82
+561,2014,septiembre,2,7,Brasil,1,1,4,Pan,76776,1.29,99041.04
+562,2014,septiembre,3,10,India,1,1,4,Pan,79819,1.29,102966.51
+563,2014,septiembre,3,5,USA,2,3,9,Camara,1050,306.22,321531
+564,2014,septiembre,2,1,China,1,1,2,Leche,78809,1.29,101663.61
+565,2014,septiembre,2,7,Brasil,1,1,4,Pan,79810,1.29,102954.9
+566,2014,septiembre,2,2,China,1,1,3,Queso,76017,2.57,195363.69
+567,2014,septiembre,3,2,China,1,1,3,Queso,77235,2.57,198493.95
+568,2014,septiembre,3,8,Brasil,1,1,5,Jabon,77921,2.57,200256.97
+569,2014,septiembre,3,10,India,1,1,2,Leche,76779,1.29,99044.91
+570,2014,septiembre,3,4,USA,2,1,4,Pan,105662,1.41,148983.42
+571,2014,octubre,1,7,Brasil,1,1,3,Queso,79306,2.57,203816.42
+572,2014,octubre,2,3,China,1,1,4,Pan,79121,1.29,102066.09
+573,2014,octubre,3,8,Brasil,1,1,1,Maiz,76529,1.29,98722.41
+574,2014,octubre,1,10,India,1,1,4,Pan,78652,1.29,101461.08
+575,2014,octubre,2,6,USA,2,3,9,Camara,1054,306.22,322755.88
+576,2014,octubre,4,10,India,1,1,1,Maiz,78435,1.29,101181.15
+577,2014,octubre,4,6,USA,2,3,10,Tratamiento de calvicie,1050,535.88,562674
+578,2014,octubre,2,3,China,1,1,2,Leche,77181,1.29,99563.49
+579,2014,octubre,3,5,USA,2,2,6,Botas,10554,21.13,223006.02
+580,2014,octubre,1,1,China,1,1,5,Jabon,77295,2.57,198648.15
+581,2014,noviembre,5,3,China,1,1,5,Jabon,78887,2.57,202739.59
+582,2014,noviembre,2,8,Brasil,1,1,5,Jabon,78372,2.57,201416.04
+583,2014,noviembre,3,6,USA,2,1,2,Leche,105192,1.41,148320.72
+584,2014,noviembre,1,6,USA,2,1,1,Maiz,105419,1.41,148640.79
+585,2014,noviembre,2,5,USA,2,1,3,Queso,105653,2.82,297941.46
+586,2014,noviembre,3,1,China,1,1,2,Leche,76221,1.29,98325.09
+587,2014,noviembre,4,1,China,1,1,5,Jabon,77346,2.57,198779.22
+588,2014,noviembre,5,8,Brasil,1,1,5,Jabon,77899,2.57,200200.43
+589,2014,noviembre,3,1,China,1,1,4,Pan,78334,1.29,101050.86
+590,2014,noviembre,3,5,USA,2,2,7,Martillos,10510,14.09,148085.9
+591,2014,diciembre,4,3,China,1,1,2,Leche,78091,1.29,100737.39
+592,2014,diciembre,3,3,China,1,1,1,Maiz,79379,1.29,102398.91
+593,2014,diciembre,1,5,USA,2,3,9,Camara,1055,306.22,323062.1
+594,2014,diciembre,5,2,China,1,1,5,Jabon,77079,2.57,198093.03
+595,2014,diciembre,3,7,Brasil,1,1,3,Queso,76214,2.57,195869.98
+596,2014,diciembre,3,10,India,1,1,4,Pan,78812,1.29,101667.48
+597,2014,diciembre,4,3,China,1,1,1,Maiz,78412,1.29,101151.48
+598,2014,diciembre,3,4,USA,2,1,1,Maiz,105182,1.41,148306.62
+599,2014,diciembre,1,6,USA,2,1,1,Maiz,105877,1.41,149286.57
+600,2014,diciembre,2,1,China,1,1,4,Pan,76703,1.29,98946.87
+601,2015,enero,1,6,USA,2,1,3,Queso,105774,2.87,303571.38
+602,2015,enero,3,8,Brasil,2,2,6,Botas,10505,21.55,226382.75
+603,2015,enero,4,3,China,2,2,8,Cortinas,10555,64.66,682486.3
+604,2015,enero,4,6,USA,2,1,1,Maiz,105235,1.44,151538.4
+605,2015,enero,1,3,China,2,1,5,Jabon,105119,2.87,301691.53
+606,2015,enero,4,5,USA,2,2,7,Martillos,10578,14.37,152005.86
+607,2015,enero,4,6,USA,2,1,1,Maiz,105211,1.44,151503.84
+608,2015,enero,2,3,China,2,2,7,Martillos,10550,14.37,151603.5
+609,2015,enero,4,4,USA,2,1,1,Maiz,105526,1.44,151957.44
+610,2015,enero,3,5,USA,2,3,9,Camara,1052,312.34,328581.68
+611,2015,febrero,4,8,Brasil,2,1,2,Leche,105492,1.44,151908.48
+612,2015,febrero,4,10,India,1,1,5,Jabon,79788,2.62,209044.56
+613,2015,febrero,4,1,China,2,1,5,Jabon,105000,2.87,301350
+614,2015,febrero,1,3,China,2,2,6,Botas,10588,21.55,228171.4
+615,2015,febrero,5,2,China,2,2,8,Cortinas,10541,64.66,681581.06
+616,2015,febrero,2,9,Francia,2,1,2,Leche,105907,1.44,152506.08
+617,2015,febrero,4,1,China,2,3,10,Tratamiento de calvicie,1054,546.6,576116.4
+618,2015,febrero,2,6,USA,2,1,1,Maiz,105431,1.44,151820.64
+619,2015,febrero,3,5,USA,2,2,7,Martillos,10529,14.37,151301.73
+620,2015,febrero,3,10,India,1,1,4,Pan,79673,1.31,104371.63
+621,2015,marzo,1,9,Francia,2,3,10,Tratamiento de calvicie,1053,546.6,575569.8
+622,2015,marzo,5,2,China,2,3,9,Camara,1056,312.34,329831.04
+623,2015,marzo,3,3,China,2,3,9,Camara,1057,312.34,330143.38
+624,2015,marzo,4,10,India,1,1,4,Pan,77836,1.31,101965.16
+625,2015,marzo,3,3,China,2,2,6,Botas,10575,21.55,227891.25
+626,2015,marzo,5,9,Francia,2,1,1,Maiz,105157,1.44,151426.08
+627,2015,marzo,5,7,Brasil,2,1,3,Queso,105583,2.87,303023.21
+628,2015,marzo,4,3,China,2,1,5,Jabon,105882,2.87,303881.34
+629,2015,marzo,5,3,China,2,1,3,Queso,105217,2.87,301972.79
+630,2015,marzo,4,3,China,2,1,5,Jabon,105227,2.87,302001.49
+631,2015,abril,2,4,USA,2,2,8,Cortinas,10574,64.66,683714.84
+632,2015,abril,4,2,China,2,3,10,Tratamiento de calvicie,1058,546.6,578302.8
+633,2015,abril,2,10,India,1,1,1,Maiz,79007,1.31,103499.17
+634,2015,abril,1,5,USA,2,1,2,Leche,105331,1.44,151676.64
+635,2015,abril,2,4,USA,2,1,4,Pan,105631,1.44,152108.64
+636,2015,abril,2,4,USA,2,2,6,Botas,10539,21.55,227115.45
+637,2015,abril,2,4,USA,2,2,7,Martillos,10562,14.37,151775.94
+638,2015,abril,2,5,USA,2,3,9,Camara,1054,312.34,329206.36
+639,2015,abril,5,10,India,1,1,1,Maiz,76905,1.31,100745.55
+640,2015,abril,4,8,Brasil,2,3,9,Camara,1058,312.34,330455.72
+641,2015,mayo,1,3,China,2,1,3,Queso,105863,2.87,303826.81
+642,2015,mayo,3,7,Brasil,2,1,4,Pan,105611,1.44,152079.84
+643,2015,mayo,4,6,USA,2,1,1,Maiz,105612,1.44,152081.28
+644,2015,mayo,3,1,China,2,2,8,Cortinas,10544,64.66,681775.04
+645,2015,mayo,2,10,India,1,1,1,Maiz,79889,1.31,104654.59
+646,2015,mayo,2,10,India,1,1,3,Queso,78803,2.62,206463.86
+647,2015,mayo,3,8,Brasil,2,1,2,Leche,105063,1.44,151290.72
+648,2015,mayo,4,8,Brasil,2,2,8,Cortinas,10543,64.66,681710.38
+649,2015,mayo,1,7,Brasil,2,2,6,Botas,10584,21.55,228085.2
+650,2015,mayo,4,10,India,1,1,4,Pan,77612,1.31,101671.72
+651,2015,junio,3,7,Brasil,2,1,3,Queso,105675,2.87,303287.25
+652,2015,junio,2,8,Brasil,2,3,10,Tratamiento de calvicie,1051,546.6,574476.6
+653,2015,junio,4,6,USA,2,1,3,Queso,105261,2.87,302099.07
+654,2015,junio,4,7,Brasil,2,2,7,Martillos,10516,14.37,151114.92
+655,2015,junio,2,3,China,2,1,2,Leche,105842,1.44,152412.48
+656,2015,junio,5,3,China,2,2,6,Botas,10528,21.55,226878.4
+657,2015,junio,4,4,USA,2,3,9,Camara,1055,312.34,329518.7
+658,2015,junio,4,3,China,2,1,5,Jabon,105141,2.87,301754.67
+659,2015,junio,3,9,Francia,2,3,9,Camara,1051,312.34,328269.34
+660,2015,junio,2,5,USA,2,1,3,Queso,105347,2.87,302345.89
+661,2015,julio,3,2,China,2,1,5,Jabon,105330,2.87,302297.1
+662,2015,julio,3,8,Brasil,2,1,1,Maiz,105328,1.44,151672.32
+663,2015,julio,3,9,Francia,2,1,1,Maiz,105600,1.44,152064
+664,2015,julio,3,6,USA,2,2,8,Cortinas,10531,64.66,680934.46
+665,2015,julio,4,2,China,2,1,5,Jabon,105768,2.87,303554.16
+666,2015,julio,3,4,USA,2,2,7,Martillos,10509,14.37,151014.33
+667,2015,julio,3,9,Francia,2,2,6,Botas,10532,21.55,226964.6
+668,2015,julio,4,1,China,2,1,3,Queso,105669,2.87,303270.03
+669,2015,julio,3,4,USA,2,1,5,Jabon,105602,2.87,303077.74
+670,2015,julio,2,10,India,1,1,4,Pan,79521,1.31,104172.51
+671,2015,agosto,3,9,Francia,2,1,2,Leche,105439,1.44,151832.16
+672,2015,agosto,2,8,Brasil,2,3,9,Camara,1053,312.34,328894.02
+673,2015,agosto,3,4,USA,2,2,8,Cortinas,10563,64.66,683003.58
+674,2015,agosto,4,4,USA,2,2,8,Cortinas,10512,64.66,679705.92
+675,2015,agosto,1,10,India,1,1,1,Maiz,77317,1.31,101285.27
+676,2015,agosto,4,3,China,2,1,3,Queso,105463,2.87,302678.81
+677,2015,agosto,3,5,USA,2,1,3,Queso,105274,2.87,302136.38
+678,2015,agosto,2,7,Brasil,2,1,2,Leche,105747,1.44,152275.68
+679,2015,agosto,5,10,India,1,1,4,Pan,79248,1.31,103814.88
+680,2015,agosto,3,10,India,1,1,2,Leche,79391,1.31,104002.21
+681,2015,septiembre,4,8,Brasil,2,2,7,Martillos,10501,14.37,150899.37
+682,2015,septiembre,4,1,China,2,1,4,Pan,105861,1.44,152439.84
+683,2015,septiembre,4,4,USA,2,2,6,Botas,10549,21.55,227330.95
+684,2015,septiembre,4,4,USA,2,2,7,Martillos,10551,14.37,151617.87
+685,2015,septiembre,4,9,Francia,2,2,7,Martillos,10511,14.37,151043.07
+686,2015,septiembre,4,8,Brasil,2,3,10,Tratamiento de calvicie,1051,546.6,574476.6
+687,2015,septiembre,3,1,China,2,1,2,Leche,105333,1.44,151679.52
+688,2015,septiembre,2,5,USA,2,3,9,Camara,1055,312.34,329518.7
+689,2015,septiembre,2,1,China,2,1,5,Jabon,105700,2.87,303359
+690,2015,septiembre,4,1,China,2,2,8,Cortinas,10549,64.66,682098.34
+691,2015,octubre,3,1,China,2,1,2,Leche,105831,1.44,152396.64
+692,2015,octubre,2,4,USA,2,2,8,Cortinas,10537,64.66,681322.42
+693,2015,octubre,3,8,Brasil,2,1,1,Maiz,105028,1.44,151240.32
+694,2015,octubre,4,1,China,2,1,3,Queso,105426,2.87,302572.62
+695,2015,octubre,1,8,Brasil,2,1,1,Maiz,105085,1.44,151322.4
+696,2015,octubre,3,7,Brasil,2,2,8,Cortinas,10532,64.66,680999.12
+697,2015,octubre,2,3,China,2,3,9,Camara,1059,312.34,330768.06
+698,2015,octubre,1,7,Brasil,2,1,1,Maiz,105857,1.44,152434.08
+699,2015,octubre,3,5,USA,2,1,5,Jabon,105236,2.87,302027.32
+700,2015,octubre,4,6,USA,2,1,1,Maiz,105375,1.44,151740
+701,2015,noviembre,4,5,USA,2,1,2,Leche,105431,1.44,151820.64
+702,2015,noviembre,2,5,USA,2,1,2,Leche,105763,1.44,152298.72
+703,2015,noviembre,3,9,Francia,2,1,1,Maiz,105033,1.44,151247.52
+704,2015,noviembre,2,6,USA,2,1,5,Jabon,105038,2.87,301459.06
+705,2015,noviembre,3,5,USA,2,1,3,Queso,105117,2.87,301685.79
+706,2015,noviembre,4,7,Brasil,2,1,5,Jabon,105628,2.87,303152.36
+707,2015,noviembre,2,6,USA,2,3,9,Camara,1054,312.34,329206.36
+708,2015,noviembre,3,1,China,2,1,3,Queso,105848,2.87,303783.76
+709,2015,noviembre,4,7,Brasil,2,2,7,Martillos,10528,14.37,151287.36
+710,2015,noviembre,3,8,Brasil,2,3,9,Camara,1054,312.34,329206.36
+711,2015,diciembre,4,10,India,1,1,4,Pan,77172,1.31,101095.32
+712,2015,diciembre,4,2,China,2,1,5,Jabon,105545,2.87,302914.15
+713,2015,diciembre,2,8,Brasil,2,1,2,Leche,105316,1.44,151655.04
+714,2015,diciembre,4,7,Brasil,2,1,1,Maiz,105152,1.44,151418.88
+715,2015,diciembre,1,7,Brasil,2,2,6,Botas,10554,21.55,227438.7
+716,2015,diciembre,3,10,India,1,1,5,Jabon,79431,2.62,208109.22
+717,2015,diciembre,4,4,USA,2,3,10,Tratamiento de calvicie,1059,546.6,578849.4
+718,2015,diciembre,2,7,Brasil,2,3,9,Camara,1055,312.34,329518.7
+719,2015,diciembre,2,3,China,2,3,9,Camara,1051,312.34,328269.34
+720,2015,diciembre,2,3,China,2,1,4,Pan,105720,1.44,152236.8
+721,2016,enero,3,3,China,3,3,10,Tratamiento de calvicie,1306,574.15,749839.9
+722,2016,enero,1,6,USA,2,1,3,Queso,105771,2.9,306735.9
+723,2016,enero,5,7,Brasil,2,3,10,Tratamiento de calvicie,1054,552.07,581881.78
+724,2016,enero,2,2,China,3,3,9,Camara,1307,328.09,428813.63
+725,2016,enero,2,5,USA,2,3,10,Tratamiento de calvicie,1050,552.07,579673.5
+726,2016,enero,4,9,Francia,3,3,10,Tratamiento de calvicie,1359,574.15,780269.85
+727,2016,enero,2,8,Brasil,2,1,2,Leche,105274,1.45,152647.3
+728,2016,enero,3,2,China,3,2,8,Cortinas,13571,70.98,963269.58
+729,2016,enero,1,1,China,3,2,7,Martillos,13301,15.77,209756.77
+730,2016,enero,2,3,China,3,2,8,Cortinas,13301,70.98,944104.98
+731,2016,febrero,4,7,Brasil,2,1,2,Leche,105091,1.45,152381.95
+732,2016,febrero,3,8,Brasil,2,2,7,Martillos,10595,14.51,153733.45
+733,2016,febrero,3,9,Francia,3,3,10,Tratamiento de calvicie,1343,574.15,771083.45
+734,2016,febrero,1,6,USA,2,1,3,Queso,105518,2.9,306002.2
+735,2016,febrero,3,5,USA,2,2,7,Martillos,10512,14.51,152529.12
+736,2016,febrero,4,5,USA,2,1,4,Pan,105175,1.45,152503.75
+737,2016,febrero,5,10,India,3,1,4,Pan,132592,1.51,200213.92
+738,2016,febrero,1,1,China,3,1,3,Queso,132173,3.03,400484.19
+739,2016,febrero,4,3,China,3,3,10,Tratamiento de calvicie,1333,574.15,765341.95
+740,2016,febrero,3,8,Brasil,2,1,4,Pan,105076,1.45,152360.2
+741,2016,marzo,5,7,Brasil,2,1,3,Queso,105040,2.9,304616
+742,2016,marzo,3,3,China,3,3,10,Tratamiento de calvicie,1330,574.15,763619.5
+743,2016,marzo,3,10,India,3,1,1,Maiz,130171,1.51,196558.21
+744,2016,marzo,5,8,Brasil,2,3,10,Tratamiento de calvicie,1050,552.07,579673.5
+745,2016,marzo,5,10,India,3,3,9,Camara,1322,328.09,433734.98
+746,2016,marzo,4,5,USA,2,3,10,Tratamiento de calvicie,1050,552.07,579673.5
+747,2016,marzo,1,2,China,3,2,6,Botas,13231,23.66,313045.46
+748,2016,marzo,5,1,China,3,2,8,Cortinas,13145,70.98,933032.1
+749,2016,marzo,3,7,Brasil,2,2,7,Martillos,10518,14.51,152616.18
+750,2016,marzo,3,2,China,3,3,9,Camara,1324,328.09,434391.16
+751,2016,abril,3,7,Brasil,2,2,7,Martillos,10511,14.51,152514.61
+752,2016,abril,3,9,Francia,3,1,4,Pan,132097,1.51,199466.47
+753,2016,abril,5,8,Brasil,2,3,10,Tratamiento de calvicie,1054,552.07,581881.78
+754,2016,abril,4,10,India,3,2,8,Cortinas,13498,70.98,958088.04
+755,2016,abril,2,3,China,3,1,4,Pan,135596,1.51,204749.96
+756,2016,abril,2,9,Francia,3,1,4,Pan,131850,1.51,199093.5
+757,2016,abril,3,2,China,3,2,6,Botas,13175,23.66,311720.5
+758,2016,abril,2,10,India,3,3,9,Camara,1333,328.09,437343.97
+759,2016,abril,2,4,USA,2,2,7,Martillos,10513,14.51,152543.63
+760,2016,abril,2,2,China,3,2,7,Martillos,13209,15.77,208305.93
+761,2016,mayo,4,3,China,3,2,7,Martillos,13031,15.77,205498.87
+762,2016,mayo,2,10,India,3,3,10,Tratamiento de calvicie,1322,574.15,759026.3
+763,2016,mayo,3,2,China,3,3,9,Camara,1306,328.09,428485.54
+764,2016,mayo,4,7,Brasil,2,3,9,Camara,1055,315.47,332820.85
+765,2016,mayo,5,3,China,3,2,8,Cortinas,13384,70.98,949996.32
+766,2016,mayo,3,1,China,3,3,9,Camara,1359,328.09,445874.31
+767,2016,mayo,4,9,Francia,3,3,9,Camara,1311,328.09,430125.99
+768,2016,mayo,3,3,China,3,3,10,Tratamiento de calvicie,1312,574.15,753284.8
+769,2016,mayo,3,2,China,3,1,2,Leche,135684,1.51,204882.84
+770,2016,mayo,3,10,India,3,1,1,Maiz,135187,1.51,204132.37
+771,2016,junio,2,4,USA,2,1,5,Jabon,105616,2.9,306286.4
+772,2016,junio,3,8,Brasil,2,3,9,Camara,1058,315.47,333767.26
+773,2016,junio,2,10,India,3,1,1,Maiz,131258,1.51,198199.58
+774,2016,junio,4,9,Francia,3,2,8,Cortinas,13524,70.98,959933.52
+775,2016,junio,3,10,India,3,2,6,Botas,13520,23.66,319883.2
+776,2016,junio,3,2,China,3,3,10,Tratamiento de calvicie,1314,574.15,754433.1
+777,2016,junio,5,4,USA,2,3,10,Tratamiento de calvicie,1055,552.07,582433.85
+778,2016,junio,4,6,USA,2,1,4,Pan,105929,1.45,153597.05
+779,2016,junio,3,2,China,3,2,8,Cortinas,13407,70.98,951628.86
+780,2016,junio,3,1,China,3,3,10,Tratamiento de calvicie,1339,574.15,768786.85
+781,2016,julio,3,6,USA,2,3,9,Camara,1055,315.47,332820.85
+782,2016,julio,2,5,USA,2,1,3,Queso,105268,2.9,305277.2
+783,2016,julio,1,9,Francia,3,1,2,Leche,135870,1.51,205163.7
+784,2016,julio,4,7,Brasil,2,1,5,Jabon,105447,2.9,305796.3
+785,2016,julio,3,8,Brasil,2,1,5,Jabon,105311,2.9,305401.9
+786,2016,julio,3,1,China,3,2,8,Cortinas,13437,70.98,953758.26
+787,2016,julio,1,6,USA,2,1,5,Jabon,105607,2.9,306260.3
+788,2016,julio,3,8,Brasil,2,2,8,Cortinas,10534,65.3,687870.2
+789,2016,julio,2,1,China,3,1,5,Jabon,131822,3.03,399420.66
+790,2016,julio,1,2,China,3,2,6,Botas,13128,23.66,310608.48
+791,2016,agosto,4,10,India,3,1,3,Queso,130470,3.03,395324.1
+792,2016,agosto,4,6,USA,2,3,10,Tratamiento de calvicie,1056,552.07,582985.92
+793,2016,agosto,3,4,USA,2,3,9,Camara,1055,315.47,332820.85
+794,2016,agosto,2,10,India,3,2,7,Martillos,13140,15.77,207217.8
+795,2016,agosto,4,3,China,3,1,5,Jabon,130330,3.03,394899.9
+796,2016,agosto,4,10,India,3,1,1,Maiz,130113,1.51,196470.63
+797,2016,agosto,2,2,China,3,2,7,Martillos,13443,15.77,211996.11
+798,2016,agosto,4,9,Francia,3,1,2,Leche,131129,1.51,198004.79
+799,2016,agosto,3,5,USA,2,2,8,Cortinas,10526,65.3,687347.8
+800,2016,agosto,2,4,USA,2,1,5,Jabon,105014,2.9,304540.6
+801,2016,septiembre,4,2,China,3,2,6,Botas,13090,23.66,309709.4
+802,2016,septiembre,4,6,USA,2,3,10,Tratamiento de calvicie,1058,552.07,584090.06
+803,2016,septiembre,3,6,USA,2,2,7,Martillos,10524,14.51,152703.24
+804,2016,septiembre,2,4,USA,2,3,10,Tratamiento de calvicie,1059,552.07,584642.13
+805,2016,septiembre,4,10,India,3,2,6,Botas,13098,23.66,309898.68
+806,2016,septiembre,4,6,USA,2,3,10,Tratamiento de calvicie,1052,552.07,580777.64
+807,2016,septiembre,5,5,USA,2,3,10,Tratamiento de calvicie,1058,552.07,584090.06
+808,2016,septiembre,1,4,USA,2,1,1,Maiz,105426,1.45,152867.7
+809,2016,septiembre,3,5,USA,2,2,6,Botas,10526,21.77,229151.02
+810,2016,septiembre,2,1,China,3,1,1,Maiz,134156,1.51,202575.56
+811,2016,octubre,4,7,Brasil,2,3,9,Camara,1050,315.47,331243.5
+812,2016,octubre,4,2,China,3,1,1,Maiz,135343,1.51,204367.93
+813,2016,octubre,3,7,Brasil,2,1,3,Queso,105841,2.9,306938.9
+814,2016,octubre,1,10,India,3,1,4,Pan,130514,1.51,197076.14
+815,2016,octubre,3,10,India,3,2,6,Botas,13479,23.66,318913.14
+816,2016,octubre,2,9,Francia,3,3,9,Camara,1357,328.09,445218.13
+817,2016,octubre,4,3,China,3,2,7,Martillos,13295,15.77,209662.15
+818,2016,octubre,3,10,India,3,2,7,Martillos,13340,15.77,210371.8
+819,2016,octubre,4,9,Francia,3,1,2,Leche,134078,1.51,202457.78
+820,2016,octubre,1,5,USA,2,1,5,Jabon,105266,2.9,305271.4
+821,2016,noviembre,4,2,China,3,1,3,Queso,133897,3.03,405707.91
+822,2016,noviembre,2,3,China,3,1,4,Pan,132849,1.51,200601.99
+823,2016,noviembre,4,7,Brasil,2,3,9,Camara,1054,315.47,332505.38
+824,2016,noviembre,1,7,Brasil,2,1,1,Maiz,105902,1.45,153557.9
+825,2016,noviembre,5,6,USA,2,3,10,Tratamiento de calvicie,1057,552.07,583537.99
+826,2016,noviembre,3,1,China,3,3,9,Camara,1356,328.09,444890.04
+827,2016,noviembre,4,9,Francia,3,1,4,Pan,135019,1.51,203878.69
+828,2016,noviembre,5,2,China,3,3,10,Tratamiento de calvicie,1302,574.15,747543.3
+829,2016,noviembre,4,1,China,3,1,4,Pan,133639,1.51,201794.89
+830,2016,noviembre,3,7,Brasil,2,2,8,Cortinas,10569,65.3,690155.7
+831,2016,diciembre,3,2,China,3,3,9,Camara,1339,328.09,439312.51
+832,2016,diciembre,2,1,China,3,3,10,Tratamiento de calvicie,1316,574.15,755581.4
+833,2016,diciembre,4,7,Brasil,2,2,8,Cortinas,10542,65.3,688392.6
+834,2016,diciembre,1,8,Brasil,2,3,10,Tratamiento de calvicie,1050,552.07,579673.5
+835,2016,diciembre,5,10,India,3,1,5,Jabon,130564,3.03,395608.92
+836,2016,diciembre,3,1,China,3,1,4,Pan,133363,1.51,201378.13
+837,2016,diciembre,3,3,China,3,3,10,Tratamiento de calvicie,1334,574.15,765916.1
+838,2016,diciembre,3,2,China,3,2,8,Cortinas,13120,70.98,931257.6
+839,2016,diciembre,3,9,Francia,3,1,1,Maiz,132689,1.51,200360.39
+840,2016,diciembre,4,10,India,3,1,1,Maiz,132832,1.51,200576.32
+841,2017,enero,3,4,USA,3,3,9,Camara,1300,337.93,439309
+842,2017,enero,2,6,USA,3,2,8,Cortinas,13085,73.11,956644.35
+843,2017,enero,3,4,USA,3,3,9,Camara,1337,337.93,451812.41
+844,2017,enero,5,6,USA,3,3,9,Camara,1359,337.93,459246.87
+845,2017,enero,4,1,China,2,1,4,Pan,105650,1.49,157418.5
+846,2017,enero,2,1,China,2,1,2,Leche,105120,1.49,156628.8
+847,2017,enero,4,3,China,2,2,8,Cortinas,10582,67.26,711745.32
+848,2017,enero,2,3,China,2,3,9,Camara,1054,324.93,342476.22
+849,2017,enero,3,9,Francia,2,2,7,Martillos,10508,14.95,157094.6
+850,2017,enero,1,8,Brasil,3,1,1,Maiz,133598,1.56,208412.88
+851,2017,febrero,3,3,China,2,2,6,Botas,10522,22.42,235903.24
+852,2017,febrero,3,8,Brasil,3,3,9,Camara,1325,337.93,447757.25
+853,2017,febrero,4,10,India,2,2,7,Martillos,10531,14.95,157438.45
+854,2017,febrero,3,2,China,2,1,3,Queso,105642,2.99,315869.58
+855,2017,febrero,3,10,India,2,2,6,Botas,10543,22.42,236374.06
+856,2017,febrero,1,5,USA,3,1,3,Queso,130623,3.12,407543.76
+857,2017,febrero,3,7,Brasil,3,2,8,Cortinas,13129,73.11,959861.19
+858,2017,febrero,4,2,China,2,3,9,Camara,1055,324.93,342801.15
+859,2017,febrero,4,8,Brasil,3,3,9,Camara,1347,337.93,455191.71
+860,2017,febrero,3,4,USA,3,1,3,Queso,130058,3.12,405780.96
+861,2017,marzo,2,9,Francia,2,1,4,Pan,105612,1.49,157361.88
+862,2017,marzo,3,1,China,2,2,7,Martillos,10511,14.95,157139.45
+863,2017,marzo,1,6,USA,3,3,9,Camara,1336,337.93,451474.48
+864,2017,marzo,3,7,Brasil,3,1,2,Leche,135020,1.56,210631.2
+865,2017,marzo,2,2,China,2,1,5,Jabon,105228,2.99,314631.72
+866,2017,marzo,3,4,USA,3,3,10,Tratamiento de calvicie,1329,591.37,785930.73
+867,2017,marzo,2,6,USA,3,2,7,Martillos,13464,16.25,218790
+868,2017,marzo,4,8,Brasil,3,3,10,Tratamiento de calvicie,1310,591.37,774694.7
+869,2017,marzo,2,5,USA,3,1,5,Jabon,130915,3.12,408454.8
+870,2017,marzo,4,7,Brasil,3,2,8,Cortinas,13543,73.11,990128.73
+871,2017,abril,3,8,Brasil,3,2,8,Cortinas,13416,73.11,980843.76
+872,2017,abril,3,1,China,2,1,2,Leche,105736,1.49,157546.64
+873,2017,abril,4,3,China,2,1,1,Maiz,105843,1.49,157706.07
+874,2017,abril,5,10,India,2,1,3,Queso,105539,2.99,315561.61
+875,2017,abril,1,7,Brasil,3,2,7,Martillos,13293,16.25,216011.25
+876,2017,abril,4,4,USA,3,3,9,Camara,1333,337.93,450460.69
+877,2017,abril,4,7,Brasil,3,3,9,Camara,1343,337.93,453839.99
+878,2017,abril,2,10,India,2,2,7,Martillos,10539,14.95,157558.05
+879,2017,abril,4,6,USA,3,1,3,Queso,130571,3.12,407381.52
+880,2017,abril,3,7,Brasil,3,2,8,Cortinas,13081,73.11,956351.91
+881,2017,mayo,5,9,Francia,2,3,9,Camara,1059,324.93,344100.87
+882,2017,mayo,4,8,Brasil,3,3,9,Camara,1303,337.93,440322.79
+883,2017,mayo,1,4,USA,3,2,8,Cortinas,13426,73.11,981574.86
+884,2017,mayo,4,3,China,2,3,9,Camara,1059,324.93,344100.87
+885,2017,mayo,3,9,Francia,2,2,7,Martillos,10512,14.95,157154.4
+886,2017,mayo,5,3,China,2,1,2,Leche,105722,1.49,157525.78
+887,2017,mayo,1,10,India,2,3,9,Camara,1053,324.93,342151.29
+888,2017,mayo,3,4,USA,3,2,6,Botas,13142,24.37,320270.54
+889,2017,mayo,3,8,Brasil,3,2,7,Martillos,13511,16.25,219553.75
+890,2017,mayo,3,2,China,2,1,4,Pan,105909,1.49,157804.41
+891,2017,junio,3,3,China,2,2,8,Cortinas,10534,67.26,708516.84
+892,2017,junio,2,2,China,2,2,7,Martillos,10563,14.95,157916.85
+893,2017,junio,4,2,China,2,2,6,Botas,10517,22.42,235791.14
+894,2017,junio,1,6,USA,3,3,10,Tratamiento de calvicie,1347,591.37,796575.39
+895,2017,junio,1,7,Brasil,3,3,10,Tratamiento de calvicie,1352,591.37,799532.24
+896,2017,junio,3,10,India,2,1,2,Leche,105318,1.49,156923.82
+897,2017,junio,2,2,China,2,1,1,Maiz,105652,1.49,157421.48
+898,2017,junio,3,9,Francia,2,3,9,Camara,1058,324.93,343775.94
+899,2017,junio,4,8,Brasil,3,2,7,Martillos,13009,16.25,211396.25
+900,2017,junio,4,1,China,2,1,4,Pan,105855,1.49,157723.95
+901,2017,julio,3,5,USA,3,1,1,Maiz,133432,1.56,208153.92
+902,2017,julio,5,4,USA,3,3,9,Camara,1324,337.93,447419.32
+903,2017,julio,4,1,China,2,3,10,Tratamiento de calvicie,1055,568.63,599904.65
+904,2017,julio,4,5,USA,3,1,1,Maiz,134944,1.56,210512.64
+905,2017,julio,4,5,USA,3,2,7,Martillos,13433,16.25,218286.25
+906,2017,julio,1,1,China,2,1,1,Maiz,105501,1.49,157196.49
+907,2017,julio,5,8,Brasil,3,1,4,Pan,132925,1.56,207363
+908,2017,julio,4,7,Brasil,3,3,9,Camara,1353,337.93,457219.29
+909,2017,julio,5,4,USA,3,1,1,Maiz,131394,1.56,204974.64
+910,2017,julio,3,5,USA,3,3,10,Tratamiento de calvicie,1305,591.37,771737.85
+911,2017,agosto,4,3,China,2,1,4,Pan,105678,1.49,157460.22
+912,2017,agosto,1,2,China,2,3,9,Camara,1057,324.93,343451.01
+913,2017,agosto,3,10,India,2,2,7,Martillos,10556,14.95,157812.2
+914,2017,agosto,4,8,Brasil,3,2,8,Cortinas,13157,73.11,961908.27
+915,2017,agosto,4,6,USA,3,2,7,Martillos,13177,16.25,214126.25
+916,2017,agosto,2,10,India,2,3,10,Tratamiento de calvicie,1056,568.63,600473.28
+917,2017,agosto,3,1,China,2,1,2,Leche,105272,1.49,156855.28
+918,2017,agosto,3,2,China,2,2,7,Martillos,10549,14.95,157707.55
+919,2017,agosto,2,3,China,2,2,8,Cortinas,10533,67.26,708449.58
+920,2017,agosto,1,2,China,2,2,6,Botas,10551,22.42,236553.42
+921,2017,septiembre,1,10,India,2,3,10,Tratamiento de calvicie,1052,568.63,598198.76
+922,2017,septiembre,1,5,USA,3,2,8,Cortinas,13118,73.11,959056.98
+923,2017,septiembre,3,8,Brasil,3,3,9,Camara,1344,337.93,454177.92
+924,2017,septiembre,2,3,China,2,2,8,Cortinas,10538,67.26,708785.88
+925,2017,septiembre,3,6,USA,3,1,4,Pan,131395,1.56,204976.2
+926,2017,septiembre,3,9,Francia,2,3,10,Tratamiento de calvicie,1058,568.63,601610.54
+927,2017,septiembre,5,2,China,2,1,5,Jabon,105401,2.99,315148.99
+928,2017,septiembre,4,5,USA,3,3,10,Tratamiento de calvicie,1306,591.37,772329.22
+929,2017,septiembre,4,7,Brasil,3,1,3,Queso,134248,3.12,418853.76
+930,2017,septiembre,4,3,China,2,1,3,Queso,105279,2.99,314784.21
+931,2017,octubre,5,6,USA,3,1,5,Jabon,133391,3.12,416179.92
+932,2017,octubre,4,3,China,2,2,8,Cortinas,10562,67.26,710400.12
+933,2017,octubre,4,4,USA,3,3,10,Tratamiento de calvicie,1357,591.37,802489.09
+934,2017,octubre,3,3,China,2,1,3,Queso,105191,2.99,314521.09
+935,2017,octubre,5,10,India,2,1,5,Jabon,105284,2.99,314799.16
+936,2017,octubre,3,10,India,2,1,5,Jabon,105932,2.99,316736.68
+937,2017,octubre,2,3,China,2,3,9,Camara,1057,324.93,343451.01
+938,2017,octubre,3,3,China,2,1,2,Leche,105449,1.49,157119.01
+939,2017,octubre,4,4,USA,3,1,4,Pan,134408,1.56,209676.48
+940,2017,octubre,3,4,USA,3,1,5,Jabon,132480,3.12,413337.6
+941,2017,noviembre,4,2,China,2,2,7,Martillos,10541,14.95,157587.95
+942,2017,noviembre,1,7,Brasil,3,2,7,Martillos,13093,16.25,212761.25
+943,2017,noviembre,4,6,USA,3,2,6,Botas,13313,24.37,324437.81
+944,2017,noviembre,3,9,Francia,2,2,7,Martillos,10526,14.95,157363.7
+945,2017,noviembre,5,5,USA,3,2,8,Cortinas,13380,73.11,978211.8
+946,2017,noviembre,4,4,USA,3,3,9,Camara,1323,337.93,447081.39
+947,2017,noviembre,3,9,Francia,2,3,10,Tratamiento de calvicie,1058,568.63,601610.54
+948,2017,noviembre,3,5,USA,3,1,1,Maiz,134628,1.56,210019.68
+949,2017,noviembre,2,6,USA,3,3,10,Tratamiento de calvicie,1308,591.37,773511.96
+950,2017,noviembre,4,8,Brasil,3,1,2,Leche,133546,1.56,208331.76
+951,2017,diciembre,4,2,China,2,1,3,Queso,105713,2.99,316081.87
+952,2017,diciembre,3,4,USA,3,1,3,Queso,133086,3.12,415228.32
+953,2017,diciembre,3,8,Brasil,3,2,6,Botas,13068,24.37,318467.16
+954,2017,diciembre,4,3,China,2,2,7,Martillos,10550,14.95,157722.5
+955,2017,diciembre,4,7,Brasil,3,2,8,Cortinas,13259,73.11,969365.49
+956,2017,diciembre,3,7,Brasil,3,3,9,Camara,1319,337.93,445729.67
+957,2017,diciembre,1,4,USA,3,3,10,Tratamiento de calvicie,1334,591.37,788887.58
+958,2017,diciembre,3,4,USA,3,1,2,Leche,131949,1.56,205840.44
+959,2017,diciembre,3,3,China,2,2,7,Martillos,10523,14.95,157318.85
+960,2017,diciembre,5,2,China,2,1,2,Leche,105735,1.49,157545.15
+961,2018,enero,3,8,Brasil,1,1,1,Maiz,79146,1.43,113178.78
+962,2018,enero,2,2,China,3,2,7,Martillos,13483,17.06,230019.98
+963,2018,enero,3,5,USA,1,1,1,Maiz,76083,1.43,108798.69
+964,2018,enero,4,7,Brasil,1,1,4,Pan,78235,1.43,111876.05
+965,2018,enero,3,3,China,3,3,10,Tratamiento de calvicie,1348,620.94,837027.12
+966,2018,enero,4,3,China,3,1,2,Leche,131010,1.64,214856.4
+967,2018,enero,2,8,Brasil,1,1,5,Jabon,76810,2.87,220444.7
+968,2018,enero,2,3,China,3,3,9,Camara,1357,354.82,481490.74
+969,2018,enero,3,5,USA,1,1,1,Maiz,77931,1.43,111441.33
+970,2018,enero,5,1,China,3,3,9,Camara,1315,354.82,466588.3
+971,2018,febrero,3,6,USA,1,1,2,Leche,79356,1.43,113479.08
+972,2018,febrero,3,1,China,3,3,9,Camara,1354,354.82,480426.28
+973,2018,febrero,5,4,USA,1,1,5,Jabon,78701,2.87,225871.87
+974,2018,febrero,2,1,China,3,2,7,Martillos,13298,17.06,226863.88
+975,2018,febrero,4,1,China,3,1,5,Jabon,132600,3.28,434928
+976,2018,febrero,3,5,USA,1,1,2,Leche,78259,1.43,111910.37
+977,2018,febrero,4,3,China,3,2,6,Botas,13459,25.59,344415.81
+978,2018,febrero,4,9,Francia,2,3,9,Camara,1059,341.18,361309.62
+979,2018,febrero,3,5,USA,1,1,2,Leche,77452,1.43,110756.36
+980,2018,febrero,4,7,Brasil,1,1,2,Leche,76171,1.43,108924.53
+981,2018,marzo,4,4,USA,1,1,2,Leche,79238,1.43,113310.34
+982,2018,marzo,4,6,USA,1,1,4,Pan,77744,1.43,111173.92
+983,2018,marzo,3,6,USA,1,1,2,Leche,77257,1.43,110477.51
+984,2018,marzo,3,9,Francia,2,3,9,Camara,1057,341.18,360627.26
+985,2018,marzo,2,8,Brasil,1,1,3,Queso,76976,2.87,220921.12
+986,2018,marzo,1,3,China,3,1,1,Maiz,131998,1.64,216476.72
+987,2018,marzo,2,2,China,3,3,10,Tratamiento de calvicie,1352,620.94,839510.88
+988,2018,marzo,2,4,USA,1,1,4,Pan,79473,1.43,113646.39
+989,2018,marzo,4,9,Francia,2,1,4,Pan,105278,1.57,165286.46
+990,2018,marzo,4,5,USA,1,1,5,Jabon,78125,2.87,224218.75
+991,2018,abril,4,1,China,3,2,7,Martillos,13355,17.06,227836.3
+992,2018,abril,2,1,China,3,3,9,Camara,1317,354.82,467297.94
+993,2018,abril,3,5,USA,1,1,4,Pan,76368,1.43,109206.24
+994,2018,abril,4,9,Francia,2,2,8,Cortinas,10545,70.62,744687.9
+995,2018,abril,5,10,India,1,1,3,Queso,79598,2.87,228446.26
+996,2018,abril,3,3,China,3,1,2,Leche,134914,1.64,221258.96
+997,2018,abril,2,4,USA,1,1,3,Queso,76138,2.87,218516.06
+998,2018,abril,1,7,Brasil,1,1,1,Maiz,78614,1.43,112418.02
+999,2018,abril,2,1,China,3,1,1,Maiz,133327,1.64,218656.28
+1000,2018,abril,3,4,USA,1,1,4,Pan,77667,1.43,111063.81
+1001,2018,mayo,2,5,USA,1,1,4,Pan,76793,1.43,109813.99
+1002,2018,mayo,3,1,China,3,1,5,Jabon,130911,3.28,429388.08
+1003,2018,mayo,5,8,Brasil,1,1,3,Queso,76634,2.87,219939.58
+1004,2018,mayo,4,7,Brasil,1,1,4,Pan,77113,1.43,110271.59
+1005,2018,mayo,4,6,USA,1,1,2,Leche,79860,1.43,114199.8
+1006,2018,mayo,4,10,India,1,1,4,Pan,77732,1.43,111156.76
+1007,2018,mayo,3,6,USA,1,1,1,Maiz,79887,1.43,114238.41
+1008,2018,mayo,2,9,Francia,2,2,8,Cortinas,10549,70.62,744970.38
+1009,2018,mayo,3,1,China,3,1,1,Maiz,133596,1.64,219097.44
+1010,2018,mayo,1,3,China,3,1,4,Pan,133809,1.64,219446.76
+1011,2018,junio,2,8,Brasil,1,1,4,Pan,76292,1.43,109097.56
+1012,2018,junio,3,9,Francia,2,1,1,Maiz,105297,1.57,165316.29
+1013,2018,junio,5,8,Brasil,1,1,5,Jabon,76621,2.87,219902.27
+1014,2018,junio,2,2,China,3,2,6,Botas,13271,25.59,339604.89
+1015,2018,junio,1,2,China,3,1,4,Pan,134001,1.64,219761.64
+1016,2018,junio,4,9,Francia,2,2,6,Botas,10580,23.54,249053.2
+1017,2018,junio,4,2,China,3,3,9,Camara,1343,354.82,476523.26
+1018,2018,junio,3,10,India,1,1,3,Queso,76817,2.87,220464.79
+1019,2018,junio,3,10,India,1,1,4,Pan,77455,1.43,110760.65
+1020,2018,junio,2,1,China,3,3,10,Tratamiento de calvicie,1348,620.94,837027.12
+1021,2018,julio,2,10,India,1,1,2,Leche,76363,1.43,109199.09
+1022,2018,julio,1,5,USA,1,1,5,Jabon,76382,2.87,219216.34
+1023,2018,julio,3,4,USA,1,1,5,Jabon,78688,2.87,225834.56
+1024,2018,julio,5,1,China,3,2,7,Martillos,13583,17.06,231725.98
+1025,2018,julio,3,3,China,3,1,2,Leche,130346,1.64,213767.44
+1026,2018,julio,3,9,Francia,2,3,10,Tratamiento de calvicie,1056,597.06,630495.36
+1027,2018,julio,5,7,Brasil,1,1,1,Maiz,78019,1.43,111567.17
+1028,2018,julio,3,1,China,3,2,7,Martillos,13138,17.06,224134.28
+1029,2018,julio,3,7,Brasil,1,1,1,Maiz,77859,1.43,111338.37
+1030,2018,julio,3,7,Brasil,1,1,5,Jabon,79736,2.87,228842.32
+1031,2018,agosto,2,10,India,1,1,3,Queso,77785,2.87,223242.95
+1032,2018,agosto,1,10,India,1,1,1,Maiz,76582,1.43,109512.26
+1033,2018,agosto,5,1,China,3,2,7,Martillos,13084,17.06,223213.04
+1034,2018,agosto,5,4,USA,1,1,1,Maiz,78698,1.43,112538.14
+1035,2018,agosto,3,5,USA,1,1,4,Pan,77475,1.43,110789.25
+1036,2018,agosto,2,1,China,3,1,4,Pan,132155,1.64,216734.2
+1037,2018,agosto,2,6,USA,1,1,1,Maiz,78339,1.43,112024.77
+1038,2018,agosto,4,5,USA,1,1,3,Queso,78646,2.87,225714.02
+1039,2018,agosto,2,7,Brasil,1,1,5,Jabon,78069,2.87,224058.03
+1040,2018,agosto,3,8,Brasil,1,1,2,Leche,78507,1.43,112265.01
+1041,2018,septiembre,2,10,India,1,1,1,Maiz,79423,1.43,113574.89
+1042,2018,septiembre,1,3,China,3,1,3,Queso,131192,3.28,430309.76
+1043,2018,septiembre,2,8,Brasil,1,1,3,Queso,79683,2.87,228690.21
+1044,2018,septiembre,3,7,Brasil,1,1,3,Queso,78129,2.87,224230.23
+1045,2018,septiembre,4,5,USA,1,1,1,Maiz,76618,1.43,109563.74
+1046,2018,septiembre,3,10,India,1,1,1,Maiz,79637,1.43,113880.91
+1047,2018,septiembre,2,9,Francia,2,3,10,Tratamiento de calvicie,1056,597.06,630495.36
+1048,2018,septiembre,4,7,Brasil,1,1,3,Queso,78319,2.87,224775.53
+1049,2018,septiembre,4,1,China,3,1,3,Queso,135228,3.28,443547.84
+1050,2018,septiembre,2,2,China,3,2,8,Cortinas,13217,76.76,1014536.92
+1051,2018,octubre,2,10,India,1,1,1,Maiz,77222,1.43,110427.46
+1052,2018,octubre,5,7,Brasil,1,1,5,Jabon,78403,2.87,225016.61
+1053,2018,octubre,2,7,Brasil,1,1,1,Maiz,77832,1.43,111299.76
+1054,2018,octubre,3,10,India,1,1,4,Pan,76900,1.43,109967
+1055,2018,octubre,2,2,China,3,3,9,Camara,1358,354.82,481845.56
+1056,2018,octubre,4,4,USA,1,1,5,Jabon,79460,2.87,228050.2
+1057,2018,octubre,4,9,Francia,2,2,8,Cortinas,10552,70.62,745182.24
+1058,2018,octubre,4,6,USA,1,1,2,Leche,79470,1.43,113642.1
+1059,2018,octubre,3,1,China,3,2,6,Botas,13018,25.59,333130.62
+1060,2018,octubre,2,4,USA,1,1,3,Queso,77008,2.87,221012.96
+1061,2018,noviembre,4,10,India,1,1,1,Maiz,76066,1.43,108774.38
+1062,2018,noviembre,3,9,Francia,2,2,7,Martillos,10559,15.69,165670.71
+1063,2018,noviembre,4,6,USA,1,1,1,Maiz,79710,1.43,113985.3
+1064,2018,noviembre,4,3,China,3,1,5,Jabon,130370,3.28,427613.6
+1065,2018,noviembre,3,7,Brasil,1,1,2,Leche,78741,1.43,112599.63
+1066,2018,noviembre,4,1,China,3,3,10,Tratamiento de calvicie,1322,620.94,820882.68
+1067,2018,noviembre,3,3,China,3,1,4,Pan,130023,1.64,213237.72
+1068,2018,noviembre,2,3,China,3,1,3,Queso,135056,3.28,442983.68
+1069,2018,noviembre,4,2,China,3,3,10,Tratamiento de calvicie,1328,620.94,824608.32
+1070,2018,noviembre,4,10,India,1,1,4,Pan,76017,1.43,108704.31
+1071,2018,diciembre,4,9,Francia,2,1,1,Maiz,105884,1.57,166237.88
+1072,2018,diciembre,2,10,India,1,1,5,Jabon,77996,2.87,223848.52
+1073,2018,diciembre,5,3,China,3,1,4,Pan,133762,1.64,219369.68
+1074,2018,diciembre,5,4,USA,1,1,3,Queso,78741,2.87,225986.67
+1075,2018,diciembre,5,3,China,3,3,9,Camara,1318,354.82,467652.76
+1076,2018,diciembre,4,6,USA,1,1,1,Maiz,79479,1.43,113654.97
+1077,2018,diciembre,3,3,China,3,2,8,Cortinas,13327,76.76,1022980.52
+1078,2018,diciembre,3,9,Francia,2,1,3,Queso,105081,3.14,329954.34
+1079,2018,diciembre,4,10,India,1,1,5,Jabon,78212,2.87,224468.44
+1080,2018,diciembre,2,6,USA,1,1,5,Jabon,78713,2.87,225906.31
+1081,2019,enero,3,3,China,2,3,9,Camara,1057,361.65,382264.05
+1082,2019,enero,4,8,Brasil,1,1,3,Queso,78474,3.04,238560.96
+1083,2019,enero,3,2,China,2,2,7,Martillos,10590,16.64,176217.6
+1084,2019,enero,3,6,USA,2,1,5,Jabon,105189,3.33,350279.37
+1085,2019,enero,4,6,USA,2,2,7,Martillos,10593,16.64,176267.52
+1086,2019,enero,1,10,India,3,3,10,Tratamiento de calvicie,1335,658.2,878697
+1087,2019,enero,3,9,Francia,1,1,3,Queso,79519,3.04,241737.76
+1088,2019,enero,2,1,China,2,1,4,Pan,105502,1.66,175133.32
+1089,2019,enero,3,9,Francia,1,1,2,Leche,78928,1.52,119970.56
+1090,2019,enero,1,2,China,2,3,10,Tratamiento de calvicie,1057,632.88,668954.16
+1091,2019,febrero,4,9,Francia,1,1,3,Queso,77394,3.04,235277.76
+1092,2019,febrero,2,8,Brasil,1,1,4,Pan,79749,1.52,121218.48
+1093,2019,febrero,2,1,China,2,3,10,Tratamiento de calvicie,1054,632.88,667055.52
+1094,2019,febrero,4,1,China,2,1,5,Jabon,105887,3.33,352603.71
+1095,2019,febrero,5,10,India,3,3,9,Camara,1324,376.11,497969.64
+1096,2019,febrero,5,10,India,3,3,9,Camara,1344,376.11,505491.84
+1097,2019,febrero,3,3,China,2,2,7,Martillos,10511,16.64,174903.04
+1098,2019,febrero,5,8,Brasil,1,1,2,Leche,76532,1.52,116328.64
+1099,2019,febrero,3,9,Francia,1,1,4,Pan,77990,1.52,118544.8
+1100,2019,febrero,3,4,USA,2,1,5,Jabon,105947,3.33,352803.51
+1101,2019,marzo,1,10,India,3,3,9,Camara,1332,376.11,500978.52
+1102,2019,marzo,1,5,USA,2,3,10,Tratamiento de calvicie,1057,632.88,668954.16
+1103,2019,marzo,4,1,China,2,3,10,Tratamiento de calvicie,1059,632.88,670219.92
+1104,2019,marzo,4,8,Brasil,1,1,5,Jabon,77082,3.04,234329.28
+1105,2019,marzo,2,2,China,2,1,1,Maiz,105577,1.66,175257.82
+1106,2019,marzo,3,6,USA,2,2,8,Cortinas,10536,74.86,788724.96
+1107,2019,marzo,1,7,Brasil,1,1,1,Maiz,79829,1.52,121340.08
+1108,2019,marzo,5,4,USA,2,1,1,Maiz,105432,1.66,175017.12
+1109,2019,marzo,4,9,Francia,1,1,1,Maiz,78350,1.52,119092
+1110,2019,marzo,4,2,China,2,1,5,Jabon,105823,3.33,352390.59
+1111,2019,abril,3,3,China,2,1,4,Pan,105189,1.66,174613.74
+1112,2019,abril,4,9,Francia,1,1,2,Leche,77029,1.52,117084.08
+1113,2019,abril,3,9,Francia,1,1,3,Queso,79849,3.04,242740.96
+1114,2019,abril,3,5,USA,2,2,8,Cortinas,10588,74.86,792617.68
+1115,2019,abril,4,9,Francia,1,1,1,Maiz,77328,1.52,117538.56
+1116,2019,abril,2,4,USA,2,3,10,Tratamiento de calvicie,1054,632.88,667055.52
+1117,2019,abril,2,8,Brasil,1,1,2,Leche,78937,1.52,119984.24
+1118,2019,abril,5,5,USA,2,2,7,Martillos,10518,16.64,175019.52
+1119,2019,abril,4,9,Francia,1,1,2,Leche,77657,1.52,118038.64
+1120,2019,abril,2,10,India,3,3,9,Camara,1324,376.11,497969.64
+1121,2019,mayo,3,7,Brasil,1,1,5,Jabon,77027,3.04,234162.08
+1122,2019,mayo,3,1,China,2,2,6,Botas,10590,24.95,264220.5
+1123,2019,mayo,3,10,India,3,3,10,Tratamiento de calvicie,1317,658.2,866849.4
+1124,2019,mayo,5,7,Brasil,1,1,5,Jabon,77400,3.04,235296
+1125,2019,mayo,2,7,Brasil,1,1,3,Queso,78309,3.04,238059.36
+1126,2019,mayo,3,9,Francia,1,1,2,Leche,79829,1.52,121340.08
+1127,2019,mayo,1,10,India,3,2,6,Botas,13369,27.12,362567.28
+1128,2019,mayo,2,9,Francia,1,1,4,Pan,78545,1.52,119388.4
+1129,2019,mayo,3,5,USA,2,1,4,Pan,105013,1.66,174321.58
+1130,2019,mayo,5,6,USA,2,3,10,Tratamiento de calvicie,1054,632.88,667055.52
+1131,2019,junio,3,7,Brasil,1,1,5,Jabon,79633,3.04,242084.32
+1132,2019,junio,4,10,India,3,3,10,Tratamiento de calvicie,1337,658.2,880013.4
+1133,2019,junio,1,2,China,2,1,5,Jabon,105526,3.33,351401.58
+1134,2019,junio,5,4,USA,2,3,9,Camara,1055,361.65,381540.75
+1135,2019,junio,5,6,USA,2,2,7,Martillos,10593,16.64,176267.52
+1136,2019,junio,4,7,Brasil,1,1,3,Queso,76478,3.04,232493.12
+1137,2019,junio,3,5,USA,2,3,9,Camara,1057,361.65,382264.05
+1138,2019,junio,4,1,China,2,1,4,Pan,105577,1.66,175257.82
+1139,2019,junio,3,10,India,3,2,7,Martillos,13151,18.08,237770.08
+1140,2019,junio,3,5,USA,2,1,5,Jabon,105008,3.33,349676.64
+1141,2019,julio,4,1,China,2,2,7,Martillos,10511,16.64,174903.04
+1142,2019,julio,3,8,Brasil,1,1,5,Jabon,78718,3.04,239302.72
+1143,2019,julio,5,3,China,2,1,5,Jabon,105196,3.33,350302.68
+1144,2019,julio,4,2,China,2,1,1,Maiz,105570,1.66,175246.2
+1145,2019,julio,4,9,Francia,1,1,3,Queso,77860,3.04,236694.4
+1146,2019,julio,4,9,Francia,1,1,5,Jabon,78440,3.04,238457.6
+1147,2019,julio,4,9,Francia,1,1,5,Jabon,76797,3.04,233462.88
+1148,2019,julio,1,9,Francia,1,1,3,Queso,77075,3.04,234308
+1149,2019,julio,3,5,USA,2,2,7,Martillos,10568,16.64,175851.52
+1150,2019,julio,2,4,USA,2,1,3,Queso,105502,3.33,351321.66
+1151,2019,agosto,4,9,Francia,1,1,5,Jabon,79826,3.04,242671.04
+1152,2019,agosto,2,4,USA,2,3,10,Tratamiento de calvicie,1054,632.88,667055.52
+1153,2019,agosto,4,7,Brasil,1,1,1,Maiz,78003,1.52,118564.56
+1154,2019,agosto,1,10,India,3,2,6,Botas,13268,27.12,359828.16
+1155,2019,agosto,3,3,China,2,3,9,Camara,1050,361.65,379732.5
+1156,2019,agosto,2,7,Brasil,1,1,3,Queso,77390,3.04,235265.6
+1157,2019,agosto,4,7,Brasil,1,1,4,Pan,78970,1.52,120034.4
+1158,2019,agosto,3,4,USA,2,3,9,Camara,1050,361.65,379732.5
+1159,2019,agosto,2,4,USA,2,1,3,Queso,105503,3.33,351324.99
+1160,2019,agosto,4,9,Francia,1,1,5,Jabon,76317,3.04,232003.68
+1161,2019,septiembre,4,7,Brasil,1,1,5,Jabon,79882,3.04,242841.28
+1162,2019,septiembre,2,9,Francia,1,1,2,Leche,79945,1.52,121516.4
+1163,2019,septiembre,1,1,China,2,1,2,Leche,105587,1.66,175274.42
+1164,2019,septiembre,2,2,China,2,2,7,Martillos,10554,16.64,175618.56
+1165,2019,septiembre,3,3,China,2,1,3,Queso,105015,3.33,349699.95
+1166,2019,septiembre,3,8,Brasil,1,1,4,Pan,79587,1.52,120972.24
+1167,2019,septiembre,3,4,USA,2,3,10,Tratamiento de calvicie,1058,632.88,669587.04
+1168,2019,septiembre,1,3,China,2,1,4,Pan,105452,1.66,175050.32
+1169,2019,septiembre,3,1,China,2,1,4,Pan,105124,1.66,174505.84
+1170,2019,septiembre,4,5,USA,2,2,6,Botas,10515,24.95,262349.25
+1171,2019,octubre,5,4,USA,2,2,8,Cortinas,10561,74.86,790596.46
+1172,2019,octubre,4,3,China,2,3,10,Tratamiento de calvicie,1053,632.88,666422.64
+1173,2019,octubre,3,2,China,2,2,7,Martillos,10502,16.64,174753.28
+1174,2019,octubre,4,3,China,2,1,4,Pan,105636,1.66,175355.76
+1175,2019,octubre,3,2,China,2,1,2,Leche,105032,1.66,174353.12
+1176,2019,octubre,4,9,Francia,1,1,2,Leche,79558,1.52,120928.16
+1177,2019,octubre,2,9,Francia,1,1,1,Maiz,79364,1.52,120633.28
+1178,2019,octubre,4,7,Brasil,1,1,3,Queso,79426,3.04,241455.04
+1179,2019,octubre,5,6,USA,2,3,9,Camara,1057,361.65,382264.05
+1180,2019,octubre,3,10,India,3,3,10,Tratamiento de calvicie,1305,658.2,858951
+1181,2019,noviembre,5,1,China,2,1,2,Leche,105148,1.66,174545.68
+1182,2019,noviembre,2,9,Francia,1,1,2,Leche,78211,1.52,118880.72
+1183,2019,noviembre,3,1,China,2,1,1,Maiz,105140,1.66,174532.4
+1184,2019,noviembre,3,3,China,2,2,7,Martillos,10574,16.64,175951.36
+1185,2019,noviembre,2,6,USA,2,2,6,Botas,10548,24.95,263172.6
+1186,2019,noviembre,2,6,USA,2,3,9,Camara,1058,361.65,382625.7
+1187,2019,noviembre,3,1,China,2,3,9,Camara,1050,361.65,379732.5
+1188,2019,noviembre,3,3,China,2,3,10,Tratamiento de calvicie,1058,632.88,669587.04
+1189,2019,noviembre,3,3,China,2,3,10,Tratamiento de calvicie,1051,632.88,665156.88
+1190,2019,noviembre,1,3,China,2,1,4,Pan,105925,1.66,175835.5
+1191,2019,diciembre,5,1,China,2,1,5,Jabon,105326,3.33,350735.58
+1192,2019,diciembre,2,7,Brasil,1,1,3,Queso,77956,3.04,236986.24
+1193,2019,diciembre,2,3,China,2,2,7,Martillos,10502,16.64,174753.28
+1194,2019,diciembre,3,3,China,2,2,6,Botas,10572,24.95,263771.4
+1195,2019,diciembre,4,5,USA,2,1,3,Queso,105213,3.33,350359.29
+1196,2019,diciembre,4,3,China,2,1,1,Maiz,105916,1.66,175820.56
+1197,2019,diciembre,4,4,USA,2,1,5,Jabon,105661,3.33,351851.13
+1198,2019,diciembre,2,10,India,3,2,8,Cortinas,13170,81.37,1071642.9
+1199,2019,diciembre,3,5,USA,2,3,9,Camara,1052,361.65,380455.8
+1200,2019,diciembre,1,3,China,2,3,10,Tratamiento de calvicie,1051,632.88,665156.88
