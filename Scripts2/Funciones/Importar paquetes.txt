@@ -1,0 +1,11 @@
+Importar archivos .py al archivo actual.
+Si por ejemplo, la carpeta actual de trabajo es :
+C:\ProgramaciónAvanzada20191erSem\Programas
+Y tenemos el programa principal(desde el cual llamamos los otros) que se llama ProgramaModular.py y los otros dos que se llaman: ModuloMatematicas.py y ModuloPalabras.py, dentro de esta carpeta tenemos que agregar o crear un archivo vacío llamado :
+__init__.py , ojo, es doble guión bajo a la izquierda y derecha de la palabra init, terminado con extensión py.
+Este archivo , le indica al compilador Python que la carpeta con dicho archivo( __init__.py) es una carpeta que contiene paquetes de python que pueden ser importado.
+
+Ejemplo:
+ProgramaModular.py
+ModuloMatematicas.py
+ModuloPalabras.py
