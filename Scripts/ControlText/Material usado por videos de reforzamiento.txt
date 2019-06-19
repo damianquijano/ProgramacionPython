@@ -1,2 +1,3 @@
-La carpeta contiene los scripts usados en los videos de reforzamiento en el uso del control Text del módulo Tkinter usado para gestionar contenidos de tablas de base de datos.
-Este material junto con los videos, es la fase previa a los videos explicatorios del desarollo de una aplicación sencilla de base de datos usando Firebird(base de datos), Pandas y Tkinter.
+La carpeta contiene los scripts usados en los videos de reforzamiento en el uso del control Text del mÃ³dulo Tkinter usado para gestionar contenidos de tablas de base de datos.
+Este material junto con los videos, es la fase previa a los videos explicatorios del desarollo de una aplicaciÃ³n sencilla de base de datos usando Firebird(base de datos), Pandas y Tkinter.
+Videos clase: https://www.youtube.com/playlist?list=PLBhxWMpRW1ER6ZosdjX4c9A9oEYVJHJ03
