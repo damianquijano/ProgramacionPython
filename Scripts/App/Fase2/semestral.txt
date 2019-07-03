@@ -1,0 +1,14 @@
+
+Crean carpeta en Drive llamada : SemestralBiomedica2019
+Agregan:
+Código Fuente de python.
+Base de datos en .csv
+Estructura de base de datos en .sql
+Print screen de la base de datos.
+Print screen del programa funcionando.
+Documento explicando el funcionamiento del programa.
+Documento explicando la tabla de datos: campos, tipo de datos.
+Hacer un video de máximo 10 minutos, en la que aparezca usted explicando el código fuente y la base de datos. Subir el video a youtube.
+Agregar el link del video.
+Cumplido todo lo anterior: mandar a damianquijanoprofesor@gmail.com el link de la carpeta SemestralBiomedica2019 con su nombre, apellido,
+cédula y asunto: SemestralBiomédica2019.
